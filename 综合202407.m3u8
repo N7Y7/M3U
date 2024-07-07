@@ -253,145 +253,145 @@ http://mail.petzhu.top:7000/rtp/239.254.200.88:8164
 http://mail.petzhu.top:7000/rtp/239.254.200.89:8160
 #EXTINF:-1 group-title="央视卫视 IPV4" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
 http://mail.petzhu.top:7000/rtp/239.254.200.90:8188
-#EXTINF:-1 group-title="🐘电信专线①❤️" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实
+#EXTINF:-1 group-title="综合频道 IPV4" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实
 http://mail.petzhu.top:7000/rtp/239.254.200.189:6293
-#EXTINF:-1 group-title="🐘电信专线①❤️" tvg-logo="https://live.fanmingming.com/tv/电视指南.png",电视指南
+#EXTINF:-1 group-title="综合频道 IPV4" tvg-logo="https://live.fanmingming.com/tv/电视指南.png",电视指南
 http://mail.petzhu.top:7000/rtp/239.254.200.142:6256
-#EXTINF:-1 group-title="🐘电信专线①❤️" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
+#EXTINF:-1 group-title="综合频道 IPV4" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
 http://mail.petzhu.top:7000/rtp/239.254.200.93:6227
-#EXTINF:-1 group-title="🐘电信专线①❤️" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",风云剧场
+#EXTINF:-1 group-title="综合频道 IPV4" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",风云剧场
 http://mail.petzhu.top:7000/rtp/239.254.200.94:6228
-#EXTINF:-1 group-title="🐘电信专线①❤️" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",怀旧剧场
+#EXTINF:-1 group-title="综合频道 IPV4" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",怀旧剧场
 http://mail.petzhu.top:7000/rtp/239.254.200.95:6229
-#EXTINF:-1 group-title="🐘电信专线①❤️" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",风云音乐
+#EXTINF:-1 group-title="综合频道 IPV4" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",风云音乐
 http://mail.petzhu.top:7000/rtp/239.254.200.96:6230
-#EXTINF:-1 group-title="🐘电信专线①❤️" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
+#EXTINF:-1 group-title="综合频道 IPV4" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
 http://mail.petzhu.top:7000/rtp/239.254.200.97:6231
-#EXTINF:-1 group-title="🐘电信专线①❤️" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png",高尔夫网球
+#EXTINF:-1 group-title="综合频道 IPV4" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png",高尔夫网球
 http://mail.petzhu.top:7000/rtp/239.254.200.98:6232
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://alvin.ergotron.net:8000/udp/239.77.1.17:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
 http://alvin.ergotron.net:8000/udp/239.77.1.158:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
 http://alvin.ergotron.net:8000/udp/239.77.0.169:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
 http://alvin.ergotron.net:8000/udp/239.77.1.163:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
 http://alvin.ergotron.net:8000/udp/239.77.0.170:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
 http://alvin.ergotron.net:8000/udp/239.77.0.171:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
 http://alvin.ergotron.net:8000/udp/239.77.1.159:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
 http://alvin.ergotron.net:8000/udp/239.77.0.172:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
 http://alvin.ergotron.net:8000/udp/239.77.1.168:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
 http://alvin.ergotron.net:8000/udp/239.77.1.113:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
 http://alvin.ergotron.net:8000/udp/239.77.1.238:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
 http://alvin.ergotron.net:8000/udp/239.77.1.109:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
 http://alvin.ergotron.net:8000/udp/239.77.0.188:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
 http://alvin.ergotron.net:8000/udp/239.77.1.161:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
 http://alvin.ergotron.net:8000/udp/239.77.1.239:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
 http://alvin.ergotron.net:8000/udp/239.77.1.76:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://alvin.ergotron.net:8000/udp/239.77.1.121:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
 http://alvin.ergotron.net:8000/udp/239.77.0.194:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png",CCTV8K
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png",CCTV8K
 http://alvin.ergotron.net:8000/udp/239.253.43.106:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.5:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.33:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.18:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.218:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.92:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.4:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.141:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
 http://alvin.ergotron.net:8000/udp/239.77.0.131:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.142:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.219:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.93:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.103:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.6:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.221:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.215:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.229:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
 http://alvin.ergotron.net:8000/udp/239.77.43.37:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.162:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.214:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.104:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.19:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.3:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 http://alvin.ergotron.net:8000/udp/239.77.0.215:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
 http://alvin.ergotron.net:8000/udp/239.77.43.36:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.111:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://alvin.ergotron.net:8000/udp/239.77.43.35:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
 http://alvin.ergotron.net:8000/udp/239.77.0.189:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.55:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.54:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
+#EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.47:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广东综艺4K.png",广东综艺4K
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东综艺4K.png",广东综艺4K
 http://alvin.ergotron.net:8000/udp/239.77.1.236:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
 http://alvin.ergotron.net:8000/udp/239.77.0.1:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东新闻
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东新闻
 http://alvin.ergotron.net:8000/udp/239.77.0.173:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广东公共.png",广东公共
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东公共.png",广东公共
 http://alvin.ergotron.net:8000/udp/239.77.0.225:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
 http://alvin.ergotron.net:8000/udp/239.77.0.112:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
 http://alvin.ergotron.net:8000/udp/239.77.0.250:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广东科教.png",广东科教
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东科教.png",广东科教
 http://alvin.ergotron.net:8000/udp/239.77.0.85:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
 http://alvin.ergotron.net:8000/udp/239.253.43.66:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png",广州新闻
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png",广州新闻
 http://alvin.ergotron.net:8000/udp/239.253.43.67:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广州影视.png",广州影视
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州影视.png",广州影视
 http://alvin.ergotron.net:8000/udp/239.253.43.68:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广州法治.png",广州法治
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州法治.png",广州法治
 http://alvin.ergotron.net:8000/udp/239.253.43.69:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png",广州竞赛
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png",广州竞赛
 http://alvin.ergotron.net:8000/udp/239.253.43.70:5146
-#EXTINF:-1 group-title="🐘电信专线②❤️" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
 http://alvin.ergotron.net:8000/udp/239.77.43.71:5146
 #EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/搜狐4K.png",搜狐4K
 http://xuys.top:8888/rtp/225.1.2.190:5002?$天津联通
