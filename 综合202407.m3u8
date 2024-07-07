@@ -367,32 +367,6 @@ http://alvin.ergotron.net:8000/udp/239.77.1.55:5146
 http://alvin.ergotron.net:8000/udp/239.77.1.54:5146
 #EXTINF:-1 group-title="央视卫视 IPV4 ②" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.47:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东综艺4K.png",广东综艺4K
-http://alvin.ergotron.net:8000/udp/239.77.1.236:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
-http://alvin.ergotron.net:8000/udp/239.77.0.1:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东新闻
-http://alvin.ergotron.net:8000/udp/239.77.0.173:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东公共.png",广东公共
-http://alvin.ergotron.net:8000/udp/239.77.0.225:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
-http://alvin.ergotron.net:8000/udp/239.77.0.112:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
-http://alvin.ergotron.net:8000/udp/239.77.0.250:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东科教.png",广东科教
-http://alvin.ergotron.net:8000/udp/239.77.0.85:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
-http://alvin.ergotron.net:8000/udp/239.253.43.66:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png",广州新闻
-http://alvin.ergotron.net:8000/udp/239.253.43.67:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州影视.png",广州影视
-http://alvin.ergotron.net:8000/udp/239.253.43.68:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州法治.png",广州法治
-http://alvin.ergotron.net:8000/udp/239.253.43.69:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png",广州竞赛
-http://alvin.ergotron.net:8000/udp/239.253.43.70:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
-http://alvin.ergotron.net:8000/udp/239.77.43.71:5146
 #EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/搜狐4K.png",搜狐4K
 http://xuys.top:8888/rtp/225.1.2.190:5002?$天津联通
 #EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",欢笑剧场4K
@@ -2697,6 +2671,32 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
 #EXTINF:-1 group-title="🐘上海频道" tvg-logo="https://live.fanmingming.com/tv/五星体育「IPV6」.png",五星体育「IPV6」
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8? IAS
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东综艺4K.png",广东综艺4K
+http://alvin.ergotron.net:8000/udp/239.77.1.236:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
+http://alvin.ergotron.net:8000/udp/239.77.0.1:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东新闻
+http://alvin.ergotron.net:8000/udp/239.77.0.173:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东公共.png",广东公共
+http://alvin.ergotron.net:8000/udp/239.77.0.225:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+http://alvin.ergotron.net:8000/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
+http://alvin.ergotron.net:8000/udp/239.77.0.250:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东科教.png",广东科教
+http://alvin.ergotron.net:8000/udp/239.77.0.85:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
+http://alvin.ergotron.net:8000/udp/239.253.43.66:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png",广州新闻
+http://alvin.ergotron.net:8000/udp/239.253.43.67:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州影视.png",广州影视
+http://alvin.ergotron.net:8000/udp/239.253.43.68:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州法治.png",广州法治
+http://alvin.ergotron.net:8000/udp/239.253.43.69:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png",广州竞赛
+http://alvin.ergotron.net:8000/udp/239.253.43.70:5146
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
+http://alvin.ergotron.net:8000/udp/239.77.43.71:5146
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东体育.png",「电信」广东体育
 http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东体育.png",「电信」广东体育
