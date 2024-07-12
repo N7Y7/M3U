@@ -67,7 +67,7 @@ http://cdn.jdshipin.com:8880/ysp.php?id=cctv2
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv3
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv4
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视卫视 IPV6",CCTV5
+#EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv5
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv5p
