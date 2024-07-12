@@ -8,3 +8,5 @@ P2p://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#P2p://147.135.39.171:
 http://r.jdshipin.com/GeWKr?id=mzt720
 #EXTINF:-1 group-title="TVB测试（随时失效）" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河台.png" group-title="TVB测试（随时失效）",TVB星河台
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
