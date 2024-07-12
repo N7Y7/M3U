@@ -60,41 +60,45 @@ http://doubleclicktv.live/70376812/52663544/325457
 #EXTINF:-1 group-title="🏆欧洲杯赛事🏆" tvg-logo="https://live.fanmingming.com/tv/beIN体育 HD.png",beIN体育 HD
 http://doubleclicktv.live/70376812/52663544/325455
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
-http://111.67.193.2:5000/ysp/cctv1
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv1
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
-http://111.67.193.2:5000/ysp/cctv2
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv2
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
-http://111.67.193.2:5000/ysp/cctv3
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv3
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
-http://111.67.193.2:5000/ysp/cctv4
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv4
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视卫视 IPV6",CCTV5
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv5
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
-http://111.67.193.2:5000/ysp/cctv5p
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv5p
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
-http://111.67.193.2:5000/ysp/cctv6
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv6
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
-http://111.67.193.2:5000/ysp/cctv7
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv7
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
-http://111.67.193.2:5000/ysp/cctv8
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv8
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
-http://111.67.193.2:5000/ysp/cctv9
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv9
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
-http://111.67.193.2:5000/ysp/cctv10
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv10
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
-http://111.67.193.2:5000/ysp/cctv11
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv11
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
-http://111.67.193.2:5000/ysp/cctv12
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv12
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
-http://111.67.193.2:5000/ysp/cctv13
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv13
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
-http://111.67.193.2:5000/ysp/cctv14
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv14
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
-http://111.67.193.2:5000/ysp/cctv15
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv15
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
-http://111.67.193.2:5000/ysp/cctv16
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv16
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
-http://111.67.193.2:5000/ysp/cctv17
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv17
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视卫视 IPV6",CCTV8k
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
-http://111.67.193.2:5000/ysp/cctv4k
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4K.png",CCTV16 4K
 http://111.67.193.2:5000/ysp/cctv16-4k
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
