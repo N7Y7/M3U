@@ -102,19 +102,19 @@ http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4K.png",CCTV16 4K
 http://111.67.193.2:5000/ysp/cctv16-4k
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+http://www.zzlag.top:9087/tsfile/live/0122_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
-http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
+http://www.zzlag.top:9087/tsfile/live/0128_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/gsws_4000.m3u8
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+http://www.zzlag.top:9087/tsfile/live/0125_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxws_4000.m3u8
 #EXTINF:-1 group-title="央视卫视 IPV6" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
