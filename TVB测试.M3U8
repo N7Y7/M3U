@@ -3,7 +3,7 @@ http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
 #EXTINF:-1 group-title="TVB测试（随时失效）" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",无线新闻台
 http://extraott.com:80/live/7921751389/6097373662/62824.m3u8
 #EXTINF:-1 group-title="TVB测试（随时失效）" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",明珠台
-http://r.jdshipin.com/GeWKr?id=mzt720
+http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
 #EXTINF:-1 group-title="TVB测试（随时失效）" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TVB测试（随时失效）" tvg-logo="https://live.fanmingming.com/tv/TVB星河台.png",TVB星河
