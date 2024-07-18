@@ -641,6 +641,10 @@ http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
 http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻台.png",TVB无线新闻台
 http://extraott.com:80/live/7921751389/6097373662/62824.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻台.png",TVB无线新闻台（备用1）
+https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.ctv
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻台.png",TVB无线新闻台（备用2）
+https://stream1.freetv.fun/tvbwu-xian-xin-wen-2.ctv
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://live.fanmingming.com/tv/TVB J2台.png",TVB J2台
 http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="https://live.fanmingming.com/tv/TVB J1.png",TVB J1
