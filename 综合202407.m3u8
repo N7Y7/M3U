@@ -685,10 +685,6 @@ https://mytv.btjson.us.kg/stream/tvb/tvn/master.m3u8?u=btjson&p=213f2541f159ac2e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道①",ZooMoo
 https://mytv.btjson.us.kg/stream/tvb/zoomoo/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",👉添加售后唯一微信👈
-https://7692.kstore.space/6H.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",👉获取最新链接👈
-https://7692.kstore.space/6H.mp4
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🐉香港频道②",凤凰资讯
 http://dms.yryyj.site:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🐉香港频道②",凤凰资讯
@@ -783,7 +779,36 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPla
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",港台RTHK34HD
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW SPORTS 1
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW SPORTS 2
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW SPORTS 3
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW SPORTS 4
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW SPORTS 5
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW SPORTS 6
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW SPORTS 7
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW SPORTS 4K HDR
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW HK PREMIER SPORTS 1
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW HK PREMIER SPORTS 2
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW HK PREMIER SPORTS 3
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW HK PREMIER SPORTS 4
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW HK PREMIER SPORTS 5
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW HK PREMIER SPORTS 6
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道②",NOW HK PREMIER SPORTS 7
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419546.m3u8
 #EXTINF:-1 group-title="湾湾频道" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png",台视新闻
 http://194.87.101.118/live.m3u8?c=4
 #EXTINF:-1 group-title="湾湾频道" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png",TVBS新闻
