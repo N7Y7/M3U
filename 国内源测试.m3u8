@@ -5,4 +5,4 @@ http://ayolee.com:5253/udp/239.93.0.184:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="国内源测试",湖南卫视
 http://ayolee.com:5253/udp/239.93.0.88:5140
 #EXTINF:-1 group-title="国内源测试" ,第一财经
-https://ycallive.yicai.com/live/yclive_yld.m3u8?auth_key=1721483503-0-0-3209c1f9fd49653789cfb41fc2442796&ycfrom=yicaiwap
+https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1721914843-0-0-3a0be93d45f66feb6410815015567013&ycfrom=yicaiwap
