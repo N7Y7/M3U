@@ -1,8 +1,8 @@
 #EXTINF:-1 group-title="国内源测试" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1（IPV6）
-http://ygbh.live/migu.php?id=cctv1
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="国内源测试" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1（IPV4）
-http://ayolee.com:5253/udp/239.93.0.184:5140
+http://218.241.192.50:8808/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="国内源测试",湖南卫视
-http://ayolee.com:5253/udp/239.93.0.88:5140
-#EXTINF:-1 group-title="国内源测试" ,第一财经
-https://ycallive.yicai.com/live/yclive_yld.m3u8?auth_key=1721483503-0-0-3209c1f9fd49653789cfb41fc2442796&ycfrom=yicaiwap
+http://218.241.192.50:8808/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="国内源测试" ,第一财经(test)
+https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1721914843-0-0-3a0be93d45f66feb6410815015567013&ycfrom=yicaiwap
