@@ -1,3 +1,17 @@
+#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16奥林匹克4K
+http://vip.syzkgg.com:8686/rtp/239.253.64.126:5140?$三亚电信
+#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://epg.iill.top/logo/CCTV16.png",CCTV16奥运频道「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16奥运频道「IPV4」
+http://218.241.192.50:8808/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://epg.iill.top/logo/CCTV5.png",CCTV5「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://epg.iill.top/logo/CCTV5+.png",CCTV5+「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5「IPV4」
+http://218.241.192.50:8808/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+「IPV4」
+http://218.241.192.50:8808/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2「IPV6」
