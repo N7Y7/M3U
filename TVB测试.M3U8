@@ -8,3 +8,9 @@ http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TVB测试（随时失效）" tvg-logo="https://live.fanmingming.com/tv/TVB星河台.png",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Gather（随时失效）" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
+https://tv.iill.top/tv/fct
+#EXTINF:-1 group-title="Gather（随时失效）" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",无线新闻台
+https://tv.iill.top/tv/wxxw
+#EXTINF:-1 group-title="Gather（随时失效）" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/073d7fa599cf9e6949d1a9c47450defd.png",Viu
+https://tv.iill.top/tv/viu
