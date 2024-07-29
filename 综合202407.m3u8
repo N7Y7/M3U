@@ -13,6 +13,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://218.241.192.50:8808/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="🏆2024奥运会🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+「IPV4」
 http://218.241.192.50:8808/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="🏆2024奥运会🏆",咪咕奥运会 4K
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运1台
 http://cdn.1678520.xyz/xsj.php?id=elta-oly1
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运2台
