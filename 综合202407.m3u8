@@ -1,18 +1,136 @@
 #EXTM3U
-#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16奥林匹克4K
+#EXTINF:-1 group-title="🏆2024奥运会🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16奥林匹克4K
 http://vip.syzkgg.com:8686/rtp/239.253.64.126:5140?$三亚电信
-#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://epg.iill.top/logo/CCTV16.png",CCTV16奥运频道「IPV6」
+#EXTINF:-1 group-title="🏆2024奥运会🏆" tvg-logo="https://epg.iill.top/logo/CCTV16.png",CCTV16奥运频道「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16奥运频道「IPV4」
+#EXTINF:-1 group-title="🏆2024奥运会🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16奥运频道「IPV4」
 http://218.241.192.50:8808/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://epg.iill.top/logo/CCTV5.png",CCTV5「IPV6」
+#EXTINF:-1 group-title="🏆2024奥运会🏆" tvg-logo="https://epg.iill.top/logo/CCTV5.png",CCTV5「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://epg.iill.top/logo/CCTV5+.png",CCTV5+「IPV6」
+#EXTINF:-1 group-title="🏆2024奥运会🏆" tvg-logo="https://epg.iill.top/logo/CCTV5+.png",CCTV5+「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5「IPV4」
+#EXTINF:-1 group-title="🏆2024奥运会🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5「IPV4」
 http://218.241.192.50:8808/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title="🏆巴黎奥运🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+「IPV4」
+#EXTINF:-1 group-title="🏆2024奥运会🏆" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+「IPV4」
 http://218.241.192.50:8808/rtp/239.3.1.130:8004
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运1台
+http://cdn.1678520.xyz/xsj.php?id=elta-oly1
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运2台
+http://cdn.1678520.xyz/xsj.php?id=elta-oly2
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运3台
+http://cdn.1678520.xyz/xsj.php?id=elta-oly3
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运4台
+http://cdn.1678520.xyz/xsj.php?id=elta-oly4
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运5台
+http://cdn.1678520.xyz/xsj.php?id=elta-oly5
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运6台
+http://cdn.1678520.xyz/xsj.php?id=elta-oly6
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会🏆",ELTA奥运7台
+http://cdn.1678520.xyz/xsj.php?id=elta-oly7
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-1" tvg-name="奧運801台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-1.png" group-title="🏆2024奥运会🏆", TVB奧運801台
+https://mytvsuper.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-2" tvg-name="奧運802台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-2.png" group-title="🏆2024奥运会🏆", TVB奧運802台
+https://mytvsuper.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-3" tvg-name="奧運803台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-3.png" group-title="🏆2024奥运会🏆", TVB奧運803台
+https://mytvsuper.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-4" tvg-name="奧運804台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-4.png" group-title="🏆2024奥运会🏆", TVB奧運804台
+https://mytvsuper.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-5" tvg-name="奧運805台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-5.png" group-title="🏆2024奥运会🏆", TVB奧運805台
+https://mytvsuper.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-6" tvg-name="奧運806台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-6.png" group-title="🏆2024奥运会🏆", TVB奧運806台
+https://mytvsuper.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-7" tvg-name="奧運807台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-7.png" group-title="🏆2024奥运会🏆", TVB奧運807台
+https://mytvsuper.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-8" tvg-name="奧運808台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-8.png" group-title="🏆2024奥运会🏆", TVB奧運808台
+https://mytvsuper.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-9" tvg-name="奧運809台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-9.png" group-title="🏆2024奥运会🏆", TVB奧運809台
+https://mytvsuper.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-10" tvg-name="奧運810台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-10.png" group-title="🏆2024奥运会🏆", TVB奧運810台
+https://mytvsuper.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-11" tvg-name="奧運811台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-11.png" group-title="🏆2024奥运会🏆", TVB奧運811台
+https://mytvsuper.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-12" tvg-name="奧運812台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-12.png" group-title="🏆2024奥运会🏆", TVB奧運812台
+https://mytvsuper.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-13" tvg-name="奧運813台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-13.png" group-title="🏆2024奥运会🏆", TVB奧運813台
+https://mytvsuper.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-14" tvg-name="奧運814台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-14.png" group-title="🏆2024奥运会🏆", TVB奧運814台
+https://mytvsuper.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-15" tvg-name="奧運815台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-15.png" group-title="🏆2024奥运会🏆", TVB奧運815台
+https://mytvsuper.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-16" tvg-name="奧運816台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-16.png" group-title="🏆2024奥运会🏆", TVB奧運816台
+https://mytvsuper.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-News" tvg-name="奧運新聞台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png" group-title="🏆2024奥运会🏆", TVB奧運817台
+https://mytvsuper.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 1台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly1
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 2台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly2
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 3台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly3
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 4台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly4
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 5台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly5
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 6台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly6
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 7台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly7
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 8台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly8
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 9台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly9
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 10台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly10
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 11台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly11
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 12台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly12
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 13台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly13
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 14台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly14
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 15台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly15
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="🏆2024奥运会🏆",Astro OLY 16台
+http://cdn.1678520.xyz/xsj.php?id=astro-oly16
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运1台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp1
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运2台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp2
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运3台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp3
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运4台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp4
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运5台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp5
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运6台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp6
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运7台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp7
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运8台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp8
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运9台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp9
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运10台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp10
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运11台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp11
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运12台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp12
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运13台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp13
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运14台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp14
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运15台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp15
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运16台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp16
+#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="🏆2024奥运会🏆",Mediacorp 奥运17台
+http://cdn.1678520.xyz/xsj.php?id=mediacorp17
+
+
+
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2「IPV6」
