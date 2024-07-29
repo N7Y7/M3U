@@ -585,7 +585,7 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="🐉香港频道①" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIUTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="🐉香港频道①",TVB星河
+#EXTINF:-1 group-title="🐉香港频道①" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 group-title="🐉香港频道①",RTHK32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
