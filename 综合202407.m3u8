@@ -584,7 +584,7 @@ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 http://php.jdshipin.com:8880/smt.php?id=Wlt
 #EXTINF:-1 group-title="🐉香港频道①" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 https://tv.iill.top/tv/fct
-#EXTINF:-1 group-title="🐉香港频道①",TVB Plus
+#EXTINF:-1 group-title="🐉香港频道①" tvg-logo="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fvi%2Fwiki%2FTh%25E1%25BB%2583_lo%25E1%25BA%25A1i%3ATVB_%2528H%25E1%25BB%2593ng_K%25C3%25B4ng%2529&psig=AOvVaw3W0SpTWCuqdnojqHRtPsGF&ust=1722565942497000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi13o2q4NKHAxUHh-4BHYBIAJsQjRx6BAgAEBU",TVB PLUS
 https://tv.iill.top/tv/tvb
 #EXTINF:-1 group-title="🐉香港频道①" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
 https://tv.iill.top/tv/mzt
