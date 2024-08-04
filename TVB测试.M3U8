@@ -21,3 +21,31 @@ https://sc2024.stream-link.org/live/103229553.php?id=h289thw
 #EXTINF:-1 group-title="stream（要开魔法）" tvg-logo="",now sport prime
 https://sc2024.stream-link.org/live/103229553.php?id=s593gst
 
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
+https://tv.iill.top/tv/fct
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
+http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台
+https://tv.iill.top/tv/wxxw
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台（备用）
+http://extraott.com:80/live/7921751389/6097373662/62824.m3u8
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台
+https://tv.iill.top/tv/mzt
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台（备用）
+http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS
+https://tv.iill.top/tv/tvb
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS（备用）
+https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",TVB娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河粤语
+https://tv.iill.top/tv/xh
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河粤语（备用）
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河国语
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河国语（备用）
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+
+
