@@ -769,14 +769,30 @@ https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 http://php.jdshipin.com:8880/smt.php?id=Wlt
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",TVB J2
 http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIUTV
+https://tv.iill.top/tv/viu
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIUTV（备用）
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+https://tv.iill.top/tv/fhzw
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文（备用）
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+https://tv.iill.top/tv/fhzx
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯（备用）
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+https://tv.iill.top/tv/fhxg
+#EXTINF:-1 group-title="🐉香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港（备用）
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://i.imgur.com/kf818kM.png",RTHK31
 https://tv.iill.top/tv/rthk31
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://i.imgur.com/MXLuUoU.png",RTHK32
 https://epg.v1.mk/logo/TVBPLUS.png
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://assets.livednow.com/logo/港台電視-33.png",RTHK33
-https://tvb.mytvsuper.us.kg/stream/tvb/33-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://i.postimg.cc/Tw1wW3Xq/34.png",RTHK34
-https://tvb.mytvsuper.us.kg/stream/tvb/34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://i.postimg.cc/j51j6YxV/35.png",RTHK35
 https://tvb.mytvsuper.us.kg/stream/tvb/35/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://i.postimg.cc/FHpNGQvN/36.png",RTHK36
