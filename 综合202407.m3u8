@@ -337,7 +337,7 @@ http://ayolee.com:5253/udp/239.93.1.11:2223
 #EXTINF:-1 group-title="央视卫视 IPV4 ①" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
 http://ayolee.com:5253/udp/239.93.1.105:5140
 #EXTINF:-1 group-title="央视卫视 IPV4 ①" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
-http://ayolee.com:5253/udp/239.93.42.37:5140
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="央视卫视 IPV4 ①" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
 http://ayolee.com:5253/udp/239.93.1.36:8004
 #EXTINF:-1 group-title="央视卫视 IPV4 ①" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
