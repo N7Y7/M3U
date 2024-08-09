@@ -2,3 +2,5 @@
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="国内源测试" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1（IPV4）
 http://218.241.192.50:8808/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="电信线路",CCTV1
+http://171.107.72.19:4000/rtp/239.81.0.102:4056
