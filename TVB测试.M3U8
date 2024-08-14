@@ -61,8 +61,10 @@ http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
 APTV168
 #EXTINF:-1 group-title="APTV168" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=31
-
-
+#EXTINF:-1 group-title="APTV168" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",NOW新闻台
+tvbus://3BeBCN5ixzbTFAE5CHNdByRGVph5ZdBSmCVtcvX5QZBVfW6KWtA3G365a4Evx
+#EXTINF:-1 group-title="APTV168" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",NOW直播
+tvbus://2eKFijvmysnKEkz7y778rmZEdRGoFimQ8vXbXDLB4c3thCYFetTSC99G5748z
 
 
 
