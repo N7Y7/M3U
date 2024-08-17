@@ -576,7 +576,7 @@ http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=47
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台（备用）
 https://tv.iill.top/tv/wxxw
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台
-https://tv.iill.top/tv/mzt
+http://www.mytvsuper.us.kg/live.php?id=pearl
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台（备用）
 http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
 #EXTINF:-1 group-title="🐉香港频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS
