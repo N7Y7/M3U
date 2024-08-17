@@ -1,3 +1,15 @@
+#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🦁欧洲五大联赛🦁",Now Sports Plus (粤语)
+https://sxj.btjson.us.kg/ziyong?id=now-sports-plus
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超1 (粤语)
+https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league1
+#EXTINF:-1 tvg-name="myTV SUPER 足球3台 (粤语)" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 足球3台 (粤语).png" group-title="🦁欧洲五大联赛🦁",myTV SUPER 足球3台 (粤语)
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-name="myTV SUPER 足球4台 (粤语)" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 足球4台 (粤语).png" group-title="🦁欧洲五大联赛🦁",myTV SUPER 足球4台 (粤语)
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-name="myTV SUPER 足球5台 (粤语)" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 足球5台 (粤语).png" group-title="🦁欧洲五大联赛🦁",myTV SUPER 足球5台 (粤语)
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-name="myTV SUPER 足球6台 (粤语)" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 足球6台 (粤语).png" group-title="🦁欧洲五大联赛🦁",myTV SUPER 足球6台 (粤语)
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
