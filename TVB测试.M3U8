@@ -89,23 +89,23 @@ http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
 http://doubleclicktv.live/70376812/52663544/620667
 
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
-
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
 https://sxj.btjson.us.kg/ziyong?id=feicui
+#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
+http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=32
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台 4K测试
 http://www.mytvsuper.us.kg/live.php?id=feicui4k
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台
-
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台（备用）
 https://tv.iill.top/tv/wxxw
+#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台（备用）
+http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=47
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台
-https://tv.iill.top/tv/mzt
+http://www.mytvsuper.us.kg/live.php?id=pearl
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台（备用）
-http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
+http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=23
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS
-https://tv.iill.top/tv/tvb
+http://www.mytvsuper.us.kg/live.php?id=tvbplus
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS（备用）
-https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+https://tv.iill.top/tv/tvb
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",TVB娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",TVB娱乐新闻台（备用）
@@ -137,15 +137,15 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://i.imgur.com/NfVZPTT.png",HOY TV 78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
-https://tv.iill.top/tv/fhzw
+http://www.mytvsuper.us.kg/live.php?id=pcc
 #EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文（备用）
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-https://tv.iill.top/tv/fhzx
+http://www.mytvsuper.us.kg/live.php?id=pin
 #EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯（备用）
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-https://tv.iill.top/tv/fhxg
+http://www.mytvsuper.us.kg/live.php?id=phk
 #EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港（备用）
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://i.imgur.com/kf818kM.png",RTHK31
