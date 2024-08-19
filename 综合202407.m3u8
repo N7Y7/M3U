@@ -89,7 +89,7 @@ http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
 http://doubleclicktv.live/70376812/52663544/620667
 
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
-https://docker.mytvsuper.us.kg/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://14.19.145.33:9981/stream/channelid/1202627090?&profile=pass
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=32
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台 4K测试
