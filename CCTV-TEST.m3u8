@@ -5,4 +5,4 @@ http://218.241.192.50:8808/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="电信线路",CCTV1
 http://171.107.72.19:4000/rtp/239.81.0.102:4056
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="电信线路",爱尔达测试
-https://cdn3.us.kg/live/elta1.m3u8?token=MuxS4lXPTbH7lmSu56SNrg&expires=1723275110
+https://10221.kstore.space/m3u/0be295cfd8cf784789c954a095bbfa21.mp4
