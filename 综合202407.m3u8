@@ -89,13 +89,13 @@ http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
 http://doubleclicktv.live/70376812/52663544/620667
 
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
-https://sxj.btjson.us.kg/ziyong?id=feicui
+http://www.mytvsuper.us.kg/live.php?id=feicui
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=32
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台 4K测试
 http://www.mytvsuper.us.kg/live.php?id=feicui4k
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台
-https://tv.iill.top/tv/wxxw
+http://www.mytvsuper.us.kg/live.php?id=wirelessnewschannel
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台（备用）
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=47
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台
@@ -160,6 +160,7 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPla
 https://tvb.mytvsuper.us.kg/stream/tvb/35/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://i.postimg.cc/FHpNGQvN/36.png",RTHK36
 https://tvb.mytvsuper.us.kg/stream/tvb/33/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
 
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1「IPV6」
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
