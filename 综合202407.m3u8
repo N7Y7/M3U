@@ -114,8 +114,8 @@ http://php.jdshipin.com:8880/smt.php?id=Wlt
 http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
 #EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIUTV
 http://cdn12.1678520.xyz/live/?id=viu
-#EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIUTV（备用）
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIU剧集台
+http://cdn12.1678520.xyz/live/?id=viu2
 #EXTINF:-1 tvg-id="Now 新闻台" tvg-name="Now 新闻台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/07591c44b82da02b3800b075c4cb6c58.png" group-title="港澳地区", Now 新闻台
 https://docker.mytvsuper.us.kg/stream/tvb/null-29/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="Now 直播台" tvg-name="Now 直播台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/d7bf718bda6a93e07185e8edc72b4261.png" group-title="港澳地区", Now 直播台
