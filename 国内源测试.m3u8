@@ -1,12 +1,4 @@
 #EXTINF:-1 group-title="国内源测试" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1（IPV6）
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="国内源测试" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1（IPV4）
-http://218.241.192.50:8808/rtp/239.3.1.129:8008
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="国内源测试",湖南卫视
-https://10221.kstore.space/m3u/01252927091539c466e967329.mp4
-#EXTINF:-1 group-title="国内源测试" ,第一财经(test)
-https://github.moeyy.xyz/https://raw.githubusercontent.com/N7Y7/M3U/main/0c94b32bca5e0ddd1b1984258c1206a2.mp4
-#EXTINF:-1 group-title="国内源测试" ,测试MP4
-https://10221.kstore.space/m3u/0be295cfd8cf784789c954a095bbfa21.mp4
 #EXTINF:-1 group-title="国内源测试" ,请扫码获取新的链接
 https://10221.kstore.space/m3u/QRcode.mp4
