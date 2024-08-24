@@ -1,29 +1,4 @@
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东综艺4K.png",广东综艺4K
-http://alvin.ergotron.net:8000/udp/239.77.1.236:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
-http://alvin.ergotron.net:8000/udp/239.77.0.1:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东新闻
-http://alvin.ergotron.net:8000/udp/239.77.0.173:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东公共.png",广东公共
-http://alvin.ergotron.net:8000/udp/239.77.0.225:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
-http://alvin.ergotron.net:8000/udp/239.77.0.112:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
-http://alvin.ergotron.net:8000/udp/239.77.0.250:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广东科教.png",广东科教
-http://alvin.ergotron.net:8000/udp/239.77.0.85:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
-http://alvin.ergotron.net:8000/udp/239.253.43.66:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png",广州新闻
-http://alvin.ergotron.net:8000/udp/239.253.43.67:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州影视.png",广州影视
-http://alvin.ergotron.net:8000/udp/239.253.43.68:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州法治.png",广州法治
-http://alvin.ergotron.net:8000/udp/239.253.43.69:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png",广州竞赛
-http://alvin.ergotron.net:8000/udp/239.253.43.70:5146
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png",广州综合
-http://alvin.ergotron.net:8000/udp/239.77.43.71:5146
+
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东体育.png",「电信」广东体育
 http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东体育.png",「电信」广东体育
