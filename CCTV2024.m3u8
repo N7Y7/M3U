@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-name="售后服务" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="添加客服获取售后",售后服务 
+https://10221.kstore.space/m3u/qrcode/qrcode.m3u8 
+
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1「IPV6」
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2「IPV6」
