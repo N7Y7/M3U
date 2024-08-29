@@ -1,30 +1,110 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="Now Sports Plus (粤语)" tvg-logo="https://live.fanmingming.com/tv/Now Sports Plus (粤语).png" group-title="🦁欧洲五大联赛🦁",Now Sports Plus (粤语)
-https://sxj.btjson.us.kg/ziyong?id=now-sports-plus
-#EXTINF:-1 tvg-name="Now Sports 英超1 (粤语)" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超1 (粤语).png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超1 (粤语)
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league1
-#EXTINF:-1 tvg-name="Now Sports 英超2 (粤语)" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超2 (粤语).png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超2 (粤语)
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league2
-#EXTINF:-1 tvg-name="Now Sports 英超3 (粤语)" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超3 (粤语).png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超3 (粤语)
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league3
-#EXTINF:-1 tvg-name="Now Sports 英超4 (粤语)" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超4 (粤语).png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超4 (粤语)
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league4
-#EXTINF:-1 tvg-name="Now Sports 英超5 (粤语)" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超5 (粤语).png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超5 (粤语)
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league5
-#EXTINF:-1 tvg-name="Now Sports 英超6 (粤语)" tvg-logo="https://live.fanmingming.com/tv/Now Sports 英超6 (粤语).png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超6 (粤语)
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league6
-#EXTINF:-1 tvg-name="足球互動窗 1 (粤语)" tvg-logo="https://live.fanmingming.com/tv/足球互動窗 1 (粤语).png" group-title="🦁欧洲五大联赛🦁",足球互動窗 1 (粤语)
-https://docker.mytvsuper.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-name="足球互動窗 2 (粤语)" tvg-logo="https://live.fanmingming.com/tv/足球互動窗 2 (粤语).png" group-title="🦁欧洲五大联赛🦁",足球互動窗 2 (粤语)
-https://docker.mytvsuper.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-name="myTV SUPER 足球3台 (粤语)" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 足球3台 (粤语).png" group-title="🦁欧洲五大联赛🦁",myTV SUPER 足球3台 (粤语)
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-name="myTV SUPER 足球4台 (粤语)" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 足球4台 (粤语).png" group-title="🦁欧洲五大联赛🦁",myTV SUPER 足球4台 (粤语)
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-name="myTV SUPER 足球5台 (粤语)" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 足球5台 (粤语).png" group-title="🦁欧洲五大联赛🦁",myTV SUPER 足球5台 (粤语)
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-name="myTV SUPER 足球6台 (粤语)" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 足球6台 (粤语).png" group-title="🦁欧洲五大联赛🦁",myTV SUPER 足球6台 (粤语)
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-name="售后服务" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="添加客服获取售后",售后服务 
+https://10221.kstore.space/m3u/qrcode/qrcode.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/欧冠.png" group-title="🦁欧洲五大联赛🦁",08/29 23:45 综合 欧冠抽签 陈侃
+https://livednow.com/iqiyi/live/8245964102505023?sign=gAAAAABm0A1wV_-H9EgFWwSgDG73n3blOQz2ECsYK2B5ReC1rZGqGaAcnqR6FQTiNW4mpH5IdTiGc7wBiRwLLdqtMPnpwgN7fBavdXQu4NsCe3EcNrimzhBw3BhcPFQVgsVbhrjrmDiyZBia3VsKw6jO8eUKiTJ_LyOf3dmIqsU0PuxbuC23S07tqPoAFzHvgJUO0P96FUQ7pCOkirUbMNzvXtKI8Ve2wQDQ4PIjbFNGPPn4CXMepCaPLPo0Yi4QUQAJFnCCyyT51C-Y2-DOmOppdI87gcy4OsOQwfEDAxd_xWQYFlo9NMQnef2O6cgoUz8dm06F3ItUz6ykEYFOAC3MBlIqZxJX3h2l703fufLQzvyUaaZUcqU%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="🦁欧洲五大联赛🦁",08/30 00:45 西甲 第3轮 吉罗纳vs奥萨苏纳 陈耀宗
+https://livednow.com/iqiyi/live/6648851899745523?sign=gAAAAABm0A1wawbDUNqjZQq8saYOLmDo7x3wMgWlRAelUtKjLkxLyy8-Zg5Bnls7cRfMpwld-3t5Jo1I4ZA_3QPMpsKNrFec5tFCNp24qgG3ns4u9c67B526g6erJXXGqcRCqjo07-JiomvnMZ07o5-0O17f7VmPkgcOSinfjuxQf0wD2ZrBKjmftUhd1hwWXBuPqY6sH61JqSbImwTMIhOLiWD1y9Ye93fE3c3OJ33LklhZi4N21ksu5PNJ2-Qo3wUbotiLikYzw2ahNEQ7t-74QIcCMaawqucaAF-2zlK4tI9fL1z93q_rnxH4nytFTdA4N3Wt2sv1DWyTuBweqP1mnOA8WUPXdzKF_ZXQQa6dIeLE3iKYvn4%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="🦁欧洲五大联赛🦁",08/30 00:45 西甲 第3轮 吉罗纳vs奥萨苏纳 English
+https://livednow.com/iqiyi/live/3105685350451623?sign=gAAAAABm0A1wIY5unSobnVk-DHcc8U9I-Zot52SyyX3osKBWv_WP-gvmJEYy9YzyTAnI6Y6ik5c4V0pENuT4_go9MTgrqIWal4YOMIQSqS23XN4ILv3XWDCeNtaGdlIco8o_n6LMbfHc9lhonzdwhGKLVUu08XjONQcuajoha-rsIOxKlskArvDaelwEQr01bayLJY8fAO2S_zGP82cfp-5fncc54jncCM8fsZpkkAw2-JJGaWYii1uyV60Rvhl5pO64TyxB1_ZjSTjl38o0hgP8MckvviV9GW3LFDF6o421oFvh15eXhdEFSgGc1NgwZyPTB4nQMCqzOljVT5EjU4LwGR-wxSztWfagrPSXFrx4AMzo4UurSU0%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="🦁欧洲五大联赛🦁",08/30 03:15 西甲 第3轮 拉斯帕尔马斯vs皇马 刘勇
+https://livednow.com/iqiyi/live/6063270830926023?sign=gAAAAABm0A1wcAmxSC04abJ7m4EbAHR06qmZtP6C2Fzi71W1RpwgBi31iJFD2e284SZLs1X-85M0bzcSB8DZx4h_vIlMe0qTUEjaAtqoE065q9wyE4bIr2K3pTuC18jhXpTMDctLVG8WtRu8oTiCtt6EXuLR6jmNhUETmtqjxRMBNgharWGLjP3bPK9yLuHZWBTghCt7XDVrJH_fx5HATqxvMa0TOMj_hGYnq37FqMk5UBBBjU8jKCOOlsjZXroPanPqHlBzh2NYaHI-xfC0jv07pB7gvsH8R2aA2Bk4QPgka-hqxxyQUnXLoo3Zz-cAmXsYgTA_eUFB5eRZT3tY1EpnkAMjtbtwzfn7zrZQpnmz3GGdN8UaxXA%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="🦁欧洲五大联赛🦁",08/30 03:15 西甲 第3轮 拉斯帕尔马斯vs皇马 陈文森
+https://livednow.com/iqiyi/live/2509676125610923?sign=gAAAAABm0A1w7xpiY5JFckLUyPcli3UXh5AIbtB53EDPG-0uf-rwQ4gincx9xJg8t03EdiCFCwRhePzTcmpf-TPJqDK5vHctAO6oR5nnxRaoqXntOIzNKLm73Cpv-ktSbiMGlsF6yBl1sHBYspotE_FaRlQqb4ODVEoeBDl7hZ-Ajzwo5QP_pPcGF-VjiPXeVL5GQjNMWahuMqdGl8Y1W36bV306rUNRAUHpuquVxzhg-PiA--X3uf_hAv9x16ZZt5arbJLWAWRjWfJrCmBzG4kTUThqYhJ_H5ETlqmZ2UZf2iwsq1rAl4IEYYO8dc6P9p_Vdoip05mLe1DcwDGyO8v_fBdf2eRDvIq9hYwj383nPSgoQ_dK02g%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="🦁欧洲五大联赛🦁",08/30 03:15 西甲 第3轮 拉斯帕尔马斯vs皇马 English
+https://livednow.com/iqiyi/live/4457334803822123?sign=gAAAAABm0A1wABvvqB3QAk2ph3BvtFu7mjkOsyw-kMB7z5L55Kf01K9A3NhxgE8MIRNr50GUSn_OP4Smlo9VPyvptrh6eGz_kXkpXd_Ste3mmRh9Lfh81pfN4enb-v1XcYz0A1avYdGc044Xv77EqJwjOsb6MfqeU2F9XXel7bmlnIxHUFakBc8GabXIjIbTtDe9rWKjrWC0Tu4wBonkSjqfA4aWxsc79uzCWIl0xwOd1jwZD3kF69VzW93hSWY4NyV_IH095IO_mlrjN-d5TzBtR7bgbPdcE4HPzHI2y2u1fqPzcbvPy7qn5n7h0P1aKm_zRgYuATmDRXP2l3j21zeQtZb2Z_2H92LAJCqiob248j8ng_1Dveg%3D
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/25 20:45 英超联赛 狼队vs切尔西 解说
+https://livednow.com/migu/928841173?sign=gAAAAABmy0vybYLNZL6_lDKYdFVDe_KbyVzxEbCZe9zuv8WaYgBS7MYooobj4dN34pTP0inHmrZ2A0HBEKJaY3FzGYwsT788TN2sCPR895jSFQE7KjLuKtHgvxGQPCcSsXtWD_7ahrBEuMrRDnyn8J3sgRDKlXlyLrjfd5svv0sEx44a6s3kjfYE7JOVP1ac2oWnIWO10NAPZfLEqbOgOMNozKADgXzv4A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/25 20:50 英超联赛 伯恩茅斯vs纽卡斯尔联 解说
+https://livednow.com/migu/928841806?sign=gAAAAABmy0vyqBUnloB1NPIKyTLdjb0MosWDT5BpBK99LzQ7MDXI9XNE66Jq8tmhRIIbTJbJ-aYWsQeKvZ5uY2JFg9oNVNf1NqqJ61qQfs3cbG_3892s3_6_CpjeWyRFhO0dQtspohjLcp9PdNHJPbDFEAsrISaYms7rkBdMA1yvQY2xuUMldU1WAXt2rVDqyhWNhEIY1QfsA1bxS_trxWdR7iPDysSpiw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",08/25 20:50 法甲联赛 朗斯vs布雷斯特 解说
+https://livednow.com/migu/928837258?sign=gAAAAABmy0vyAtknqPps3-jvxm0FCKYtoFnTtgS9xr3cYzAeNH1snPO0csqTqJCnL0Lmtli-N3-qdfC6xEwCwt6L37x7JDNcpB1V1jC2BoqRipFn7ynf6XLPa1qi8rZXpEeUEHMta633zZY5Gkz_L6y8lA_MTyqwCWUNblGthf4ZW7EhV6uz6g69EXTAITrIMicQo7YDBvEJaQEFwmJ1i0dCO24LWW1baQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="🦁欧洲五大联赛🦁",08/25 21:15 德甲联赛 沃尔夫斯堡vs拜仁慕尼黑 解说
+https://livednow.com/migu/928821475?sign=gAAAAABmy0vyKVPyBJeKnWYTtTVPJ-NL7peSpCA0MQbZIt3jM2_41Ti68rsrbw2LSrpq4hRYCP0XgCKe8-yzFO3BMpnSgFpq1QvZQ-6nFdlayLhwvYend474Gbd9nNTLAWkVjz0J4L6msLpSr3VhLT2Ov8o55S-jutd-d3zx3Cg2TyUct0lN-X3qa2-vLL5nzXgdNOvuytlCQyZCJFwwvKFoHONVx122PQ%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",08/25 22:45 西甲联赛 皇家马德里vs巴拉多利德 解说
+https://livednow.com/migu/928839555?sign=gAAAAABmy0vyI4P4gtKab_cHEP5TBJlZ9p88rYpH81BlcxW6unv8fx3BFzoa8-tfL2Z5sIsAgnZwSvJyrXwh3JefQMxWra3zzPx3Due8_83B608wXB_j7kUufZNDXNb8kPbtLdMGl-a_xNAUNEYtr4jF1QP1Att6B3jkmQEn0ePwa3PHNtWf0iGXME75da79hlPUMHNL_xwaQJ54Fsap-7BLBFSDrmJdtw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",08/25 22:50 法甲联赛 尼斯vs图卢兹 解说
+https://livednow.com/migu/928837964?sign=gAAAAABmy0vyReaBonG4wqr21451YzJYKIwy0jRBphbQW0fGG5qGZERxhrzWsgbnkC1kgRX0S9Wos_YGskVQeVPkN13p4Q1SbtlkP4rZJXtU5F4eLRJzaBbGQb4G-k8TKqj3cJMnyTcrVSix85Pai7Yl95YRfwPvYe8vffb6RDLfJ8sLcTxSCRAbQ8UxoKlKSE5hCxmhgIJvo38aSbgjIUJJ6OCbUEnpfQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",08/25 22:50 法甲联赛 南特vs欧塞尔 解说
+https://livednow.com/migu/928837576?sign=gAAAAABmy0vy6cTOtCDBoTCwQ_aWAMVkI4mslGH_mHf8r0EcW-U4-9lRJs9Di2agTzDxmfwTyX8R4Xbo_FdaSx_fHPhpaLhrz4IWjxWPP-RG1rxwCSlgJoLLzz6MN9glx6FgRPtWenyIOJn71N1GNigpXCxz0CHVKgicHRhIRYN3pVpf5sJgSneqfLOCheK1Y3V9dSJ1HaY7wJzFqTx5JWZWvqi4dP-TPQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",08/25 22:50 法甲联赛 斯特拉斯堡vs雷恩 解说
+https://livednow.com/migu/928838450?sign=gAAAAABmy0vy1qshacU4EJEFnCKBggv9lhcmgBABveDAgJ-M-J1iI4WCD0jhKNrfACKBoxguT_hnswhasAWK4rvD3vbhTlvEUgIW2b3YdTJEsVFfjcbTJiNkbKRUFRSWy0vsRLcpqzA0z8T87La8NSowDTHivX6HGNufGF2Ck9KzfEvpfmXtiDLQz52GQcGawdSvnavtllpaHw1OdSTopwIuw3wiOMs1zQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/25 23:15 英超联赛 利物浦vs布伦特福德 解说
+https://livednow.com/migu/928850728?sign=gAAAAABmy0vy_hWoZrWwiQQccmnR_O00qUQN7Hon1z3z6MJArRq_TkjWO2YaN-2tb5nNxLoQ1hUgdXxv0B7ngi3AR8-PFdIuQh_Ai1sgGtFnaluEINEY_Tqw8RmBmRkXwzdTwK7nKoLcZ19LoJ2Dz_8hv7UGMemmOiiwZ4K5F8_kIPJRppXr4mPvVHsRj7Dh3rpmYjnX5SI85dj3cpfdyRXQiTTR6djdfA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="🦁欧洲五大联赛🦁",08/25 23:20 德甲联赛 圣保利vs海登海姆 解说
+https://livednow.com/migu/928822874?sign=gAAAAABmy0vy9QqOlV21R8psomeuiYf0KstjozdFhWgmWTnNGHJjdfu2mssLEHRr-7RmEMhICGI4dVIxtkw8qdRmbuPqfzOAL60SAW7k2wxHS-Q1kfAmUSVBLuFlWA2UzWqSW28xVvYP3hDP4INnGiOVJaOaGM5n4ElBuZf1DaVSrX6ktsuPaFwtnEQHHeTDfGM6DeBXMfTxZCcyR4azbm7yFJrecojmMQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="🦁欧洲五大联赛🦁",08/26 00:20 意甲联赛 佛罗伦萨vs威尼斯 解说
+https://livednow.com/migu/928826628?sign=gAAAAABmy0vy5aC7t4SbmjfzLTvpQN-q1gRmI4aO_-3HV6HwaC46DM7jJHO0fyAERt8_1AdCc3FqqujQAAi9cTuiK-U1rRNESCQ2ufQYrEpbQvgwfuvvkV0b6-EidTGirrKH-7UHoN9hrZb4UTv-NZQj6aGGkPmyfjOM0XSRoODfrxfznDN0EnMyJnbxlvY2kVxuWLUB3XHvZ_qprA7pc29e8NZAerY9bQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="🦁欧洲五大联赛🦁",08/26 00:20 意甲联赛 都灵vs亚特兰大 解说
+https://livednow.com/migu/928825818?sign=gAAAAABmy0vy5Y6YWDM3zaPak_XB7gwKu_5CRpcXsgyk82ov5dx3KcDdX8oXpqpvZQAWBvhLg2OLPq8ZOwGOBLlzjREs8rhPSPCU4kQtfZ0YdyGSlBFwSiauRRnp7zZlTU2WvrEF_ZTKIekq9WUvN1A2N_sH_s6gQQMqqfMFz40AL6p3hcA7GjUWs1KPwvttAHBNShOuMs20BluYSky4FY33HY5gYjFc6Q%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",08/26 00:50 西甲联赛 莱加内斯vs拉斯帕尔马斯 解说
+https://livednow.com/migu/928839813?sign=gAAAAABmy0vyKK3PjyE4XgjVB6VZUe_11tV4FVK8wCdmCF_tQrJE-OC0Dwk42X0Q2mawaFE8TNNInSw89bF2qwaEqsSRsBM1irxr8tyfPRok59UufAz4ADpG4LYmluv8ZGMvmWdXBSfPqMcRN8OdWZFSwWqvdwUWtZ51gcNDFdtaNGwRxUS9_cjXC3BDf-TgDXcBsPaCX7xp4cRJnVPflOPZ97qypft95A%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",08/26 01:05 西甲联赛 阿拉维斯vs皇家贝蒂斯 解说
+https://livednow.com/migu/928839318?sign=gAAAAABmy0vyQRy7NylKIps2tR4IJmcluXuqYRNs7MCVH6SAB2eRhS9pZmO4hfyPnBjif5IzqaP-SSQgqQlAowo0IIqOHvJF1710PwF6DNdVSv0almDCkthoW7BgQBLDBZ3nO04LDo8E1PNOWjtdhDq6IvzmgOF0-GaaWSY7OVWQ3MRur9Cb-5IVktpT97kJbOBVgkueFOiStCjH276pXPNubtvssr2rKA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="🦁欧洲五大联赛🦁",08/26 02:35 意甲联赛 罗马vs恩波利 解说
+https://livednow.com/migu/928826415?sign=gAAAAABmy0vyGSVBS-RzHXEkqidmdFyMDEGLrnYQ_aWAVa1dd2GB-HDUlfB8VxQ5NzejKhrm-xSqFB3mdVrtxw2HQsf4efeP9P3WCotugE4T1mBra3rYSuEhQqFsbGv4zVUbg6wDLo4tpCYQpLxj8p1FDe5etJtEIrK5T0I6W4H_bnaTiUOxR52ydHpX_rQMT5Q7pVcYgtefQ2lIik5S2_2cRhdqkSm3PQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="🦁欧洲五大联赛🦁",08/26 02:35 意甲联赛 那不勒斯vs博洛尼亚 解说
+https://livednow.com/migu/928827044?sign=gAAAAABmy0vyTH_Leea4QdW1xL_-nx0bFMGhjQiFN-ATYM9K2Mcn_JjugabLHZhbCIWbdbPJw3Xt-CLtPJLoSGOFrVMhdOW17c0yoLGfsVm-_ztWHvhlNuQF8qPoKeaZ5e_5MGhTQOXhzsGeVl-u5WWC-j3HAq0omYPyPv0Ik0gVAn8NiqM5mYGvVpEniRbtP0ukpjUvR7K4Vm7M6Zin8KGtmM3xevnTyg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",08/26 02:35 法甲联赛 马赛vs兰斯 解说
+https://livednow.com/migu/928838805?sign=gAAAAABmy0vy7x2DG_uhFU7eXjtrlCjnCSfELrIX_veI2llmW3hFwv-eOydx7HF5hZYfdtJH7psyfWxnkomUqxum62vhK0FkGo5ImDo98lSdfIXONuBCw97tNmOUXTYYd5D7kaRLsgYp6lcGlGnzRxjgGyZxzWRJM6UP3nfv3f8Fe6o8kPP5RnZG9Nfz7GkMAyJ5yyc1ADObDqw1m8Z3_Mez7RS_9obPKQ%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",08/26 03:15 西甲联赛 马德里竞技vs吉罗纳 解说
+https://livednow.com/migu/928838539?sign=gAAAAABmy0vy1IpHpuz8nTj-JH36N24rKawWwOn1lqca4Po59TzkSXAku1O7FZKMBjH0m3csy3D0NVQUQCcjG212-_EDkkQWJHqAAUHKBSK2fTaF9xKrtT6VhwzMFQY8WXO7jscgARTDPnCTRJtkbpbbT31Cn1PFOqUhAJSGdKyklvaAeVDF8YMiyrJNlshwwbbPeQOh0B5_g5noO-lJz3CCg5sK5Gqs1g%3D%3D
+
+#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="🦁Now体育🦁", Now Sports 英超1台
+https://live.hkdvb.com/hls/live/621.m3u8?token=645582076445879
+#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="🦁Now体育🦁", Now Sports Prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=645582076445879
+#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="🦁Now体育🦁", Now Sports 632
+https://live.hkdvb.com/hls/live/632.m3u8?token=645582076445879
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" 
+
+#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🦁Now体育🦁",Now Sports Plus 
+https://sxj.livednow.us.kg/ziyong?id=now-sports-plus 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁Now体育🦁",Now Sports 英超1 
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁Now体育🦁",Now Sports  4K  
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86258 
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球3台 
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球4台 
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球5台 
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球6台 
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1 
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 2 
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 1 FHD 
+http://extraott.com//7795309038/1092686646/63953 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 2 FHD 
+http://extraott.com//7795309038/1092686646/63951 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",PPV| HUB PREMIER 2 FHD 
+http://extraott.com//7795309038/1092686646/9060 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Hub Premier 2 4K 
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86270 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Eleven Sports 1 4K 
+https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Astro SuperSport 4K 
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86257 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",BeIN Sport Arabic 4K 
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86259 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Main Event 4K 
+http://doubleclicktv.live/70376812/52663544/620667
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 金昊楠 刘耀 邱超
+https://livednow.com/tencent/100360:2002921/288610/1380256700?sign=gAAAAABmysDF5sX3aU6mH5QYnVEY5iRpysYW_u1s7NUNbkfHE5COHTT6vXogbZpVRlT-9YLPbcj1XEux9oPC5bFRA246n08MC_cgSMWHeYUBOKCIPiihqm7jVA1i1RykmGMBzoYP275ynb5-UNp34svGkhgbLBN-enJAd4Tan3T-ba1mxrhTaf5wipueK-5w8C8gDyvemc8I8NXRUTUsizZp0xfZ5Mp_m8BDAopzsMNaPRqBf2RDtTlXYePSaYyyf8JPFgDG5Wwma7CYyOG0L02DJ6W-KvxMR3kqY37-yGTwBhNU1eSM6-jeEa37GAJwCI-Br8H_op54aSWIAt8CSNJmHakl7shS4YcFEMwkAPKUh2a4zvPuZGtBfwQGZ5ZviJLJgy4sm_HRzitoK1LhVztkua4WsaKD8X7BeoJr-jlp34Zw2hNEJb0%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 维修区
+https://livednow.com/tencent/100360:2002921/288610/1380257000?sign=gAAAAABmysDFjNpwK_q0_DJOykLhkDiWJ5DCaSHgoOGXkvnBkODGAPVruzgo-2LBzBl7LXHLuZcD4GbxYQLkWas8qaq8zFcdu6Egj1DTSM7ayvA5HyuIbF2aEq1-m_Vc0zDGlKEj1BuZwNjvrkExtitkwbjOvkRVqbDr0MJ0DqoqfZGz_spRzNGIqtbd4zI9ePG6gAoAFQfffG26z2kBjF4i-PG4N5GVV_bJCckrTxvwQkkVn3_rw_dZPSsIyU7qjs9CaHIIpCXZ3H06xDj2KDNy2V6tq7ff6H7kYInHKRUsHRBPmiy3Yp_1IoBm66-IgijfprjNrnQBVM1QrZyn9enWSw8CzWr4qYDzvb-BquW2I5SnFa14XFjx3YMzKZw4q0OGmLWvQtkBiw_BBSHxnMnbc_3uOGts5csnMCtXnsc-REg8Otw-klo%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 车载镜头
+https://livednow.com/tencent/100360:2002921/288610/1380256800?sign=gAAAAABmysDF5dkmQwlhaVFg5aimgMJAeYKDrn_90HvGXfEHMvzj8y7iqSU65_ap3fuCZ94WdD_rJTtmmfRIc7faP4B7xaOHE_fKbrfNBpV7giqKavEzoVNtm1xEIIX6YcFGGyq6dCQkOekDqDb0eOS84SAjg85G7xod_joxDoUgeb-UTRF9dWgC2t5NMx3BbWGwem2dxN99U1PgY_IeudfqMCzI4Ouva401EEJSrQHd-PPedGKOTLuxDHE6h2E7OgcUKzeAFNJTaQViFc2-QPp_TKSc2G1VwJm9okvnh8OLD6RRE5iTiEU_QbgCf_NXaHCHlZVsDVV9Y4UnHPB913YttyULYYv8RcRoomhkYDAIoJgAo3xfW7sCzNU6erkepkaSgWUUlev9xqNXXmjdEqvIIPwYDKySvjGuiIagqh_jEpYloBT7x3k%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 圈速信息
+https://livednow.com/tencent/100360:2002921/288610/1765102400?sign=gAAAAABmysDFxxUIswW-Th2SkldIKnwKoV2kpEnsjciRa3BXV-tf9uXdaYCTyNxldKPTAdOR1G0543ELd7rMy4sed4KczfmPkSfWbi22oTmMUl78YOM38TjP-LAucW4O2-6kP84QTUq-1RysPNVhN6QWaGClMYzEGWEdxe8ILkIuN_28LVwaFPgouRdSaqURxoiccon80TA4O9qfYHW5KngkVA9yoj5LLfh-7bg7kFa9I4refcH8zx7tMAw4tgtD-SQHehUJZLkDUEUwD-PY17APAzciH-xNVtRHe2ennnyMh9mD94fY35DakaGDsFgyl5L2CoRn78bBQq-IGCCc7s2683I9qfkzylWN2vqPlh2L_OQiW4qvNud1AanlqOn8XGUA4corEIQ1fau8cyZmuGhFGTM_ZD3ohdCJGkedOMhilaYSFlv4CBM%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 车手位置
+https://livednow.com/tencent/100360:2002921/288610/1380256900?sign=gAAAAABmysDFugxbQ-KORI9U5oIJPOxZKtbfbUXKkuGkC75D0GsaezW52U0HZ4Vn226OAOO530EOSY_krgNyifXAdzvweETx1lJQigR3q_QDmeSTdwFGGntDmPEJhQGKHa-_Dnflwkd07D48cMMkT4vHdDSNLptp94OV8rcLJqNttxFmUmlFBHtQT1brmU83Ff7-oiSmGN9t0S-1Y2963j3FSnSnjY53W1U5qsCVEINi-_a35o5wcQGAnE4wfD8uPrnZd3_KSpgh9IGElpjlILgUTPjlLxkuhXR0JJ7fZFs9Ywdcb_WyZpvEm3SjYONTvzYFEfqm96qEvdoDM-38pbm3eEu1QU6ogpLoW-f4WCMczp2ZI1uI8TU_8Cu3Fv4rRJVe7iRuuhuQHyQ6r-OHd5BtJJFYa-PlWUCVNShur-eLsxQ-oFL14o8%3D
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="🐉国内体育🐉",广东体育
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="🐉国内体育🐉",广东体育
