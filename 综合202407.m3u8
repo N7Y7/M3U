@@ -109,7 +109,7 @@ https://livednow.com/tencent/100360:2002921/288610/1380256900?sign=gAAAAABmysDFu
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
 https://judy.mytvsuper.us.kg/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
-https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用2）
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=31
 #EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（广电）
