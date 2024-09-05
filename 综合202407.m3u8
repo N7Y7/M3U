@@ -108,37 +108,37 @@ https://livednow.com/tencent/100360:2002921/288610/1765102400?sign=gAAAAABmysDFx
 https://livednow.com/tencent/100360:2002921/288610/1380256900?sign=gAAAAABmysDFugxbQ-KORI9U5oIJPOxZKtbfbUXKkuGkC75D0GsaezW52U0HZ4Vn226OAOO530EOSY_krgNyifXAdzvweETx1lJQigR3q_QDmeSTdwFGGntDmPEJhQGKHa-_Dnflwkd07D48cMMkT4vHdDSNLptp94OV8rcLJqNttxFmUmlFBHtQT1brmU83Ff7-oiSmGN9t0S-1Y2963j3FSnSnjY53W1U5qsCVEINi-_a35o5wcQGAnE4wfD8uPrnZd3_KSpgh9IGElpjlILgUTPjlLxkuhXR0JJ7fZFs9Ywdcb_WyZpvEm3SjYONTvzYFEfqm96qEvdoDM-38pbm3eEu1QU6ogpLoW-f4WCMczp2ZI1uI8TU_8Cu3Fv4rRJVe7iRuuhuQHyQ6r-OHd5BtJJFYa-PlWUCVNShur-eLsxQ-oFL14o8%3D
 
 
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
 https://judy.mytvsuper.us.kg/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台（备用）
+#EXTINF:-1 tvg-name="翡翠台" group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台（备用2）
+#EXTINF:-1 tvg-name="翡翠台" group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用2）
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=31
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台（广电）
+#EXTINF:-1 tvg-name="翡翠台" group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（广电）
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=32
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台 4K测试
+#EXTINF:-1 tvg-name="翡翠台" group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台 4K测试
 https://judy.mytvsuper.us.kg/stream/tvb/feicui4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台
+#EXTINF:-1 tvg-name="無線新聞台" group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台
 https://judy.mytvsuper.us.kg/stream/tvb/wirelessnewschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台（备用）
+#EXTINF:-1 tvg-name="無線新聞台" group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台（备用）
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=21
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台
+#EXTINF:-1 tvg-name="明珠台" group-title="港澳地区" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台
 http://www.mytvsuper.us.kg/live.php?id=pearl
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS
+#EXTINF:-1 tvg-name="TVB-Plus" group-title="港澳地区" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS
 https://token.567852.xyz/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",TVB娱乐新闻台
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="港澳地区" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",TVB娱乐新闻台
 https://judy.mytvsuper.us.kg/stream/tvb/ctve/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河1
+#EXTINF:-1 tvg-name="星河台" group-title="港澳地区" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河1
 https://sxj.livednow.us.kg/ziyong?id=tvb-xinghe
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://cdn.media.ulivetv.net/media/other/2024-06-20/e86ae7656ccb61c2730cb6f29db291f7.webp",功夫台
+#EXTINF:-1 tvg-name="功夫台" group-title="港澳地区" tvg-logo="https://cdn.media.ulivetv.net/media/other/2024-06-20/e86ae7656ccb61c2730cb6f29db291f7.webp",功夫台
 https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",华丽翡翠台
+#EXTINF:-1 tvg-name="華麗翡翠台" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Wlt
-#EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",TVB J2
+#EXTINF:-1 tvg-name="J2" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",TVB J2
 http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
-#EXTINF:-1 group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIUTV
+#EXTINF:-1 tvg-name="ViuTV" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV
 http://cdn12.1678520.xyz/live/?id=viu
-#EXTINF:-1 group-title="港澳地区" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Viu_(streaming_media)-Logo.wine.png",VIU剧集台
+#EXTINF:-1 tvg-name="Viu 劇集台" group-title="港澳地区" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Viu_(streaming_media)-Logo.wine.png",Viu剧集台
 http://cdn12.1678520.xyz/live/?id=viu2
 #EXTINF:-1 tvg-id="Now 新闻台" tvg-name="Now 新闻台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/07591c44b82da02b3800b075c4cb6c58.png" group-title="港澳地区", Now 新闻台
 https://sxj.livednow.us.kg/ziyong?id=now-news
