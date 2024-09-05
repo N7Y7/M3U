@@ -155,20 +155,14 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-name="鳳凰中文" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
 https://token.567852.xyz/stream/tvb/pcc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-name="鳳凰中文" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文（备用）
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://www.mytvsuper.us.kg/live.php?id=pin
-#EXTINF:-1 tvg-name="鳳凰資訊" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯（备用）
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+https://token.567852.xyz/stream/tvb/pin/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="鳳凰香港" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://www.mytvsuper.us.kg/live.php?id=phk
-#EXTINF:-1 tvg-name="鳳凰香港" group-title="港澳地区" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港（备用）
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+https://token.567852.xyz/stream/tvb/phk/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="港台電視 31" group-title="港澳地区" tvg-logo="https://i.imgur.com/kf818kM.png",RTHK31
-https://tv.iill.top/tv/rthk31
+https://sxj.livednow.us.kg/ziyong?id=rthk31
 #EXTINF:-1 tvg-name="港台電視 32" group-title="港澳地区" tvg-logo="https://i.imgur.com/MXLuUoU.png",RTHK32
-https://epg.v1.mk/logo/TVBPLUS.png
+https://sxj.livednow.us.kg/ziyong?id=rthk32
 #EXTINF:-1 tvg-name="港台電視 33" group-title="港澳地区" tvg-logo="https://assets.livednow.com/logo/港台電視-33.png",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="港台電視 34" group-title="港澳地区" tvg-logo="https://i.postimg.cc/Tw1wW3Xq/34.png",RTHK34
