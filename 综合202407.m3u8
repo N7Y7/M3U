@@ -511,92 +511,24 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 #EXTINF:-1 tvg-logo="https://tv.iill.top/logo/咪咕.png" group-title="🐉咪咕体育「全网」",tvg-logo="https://gitee.com/n7y7/Logo/raw/master/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.png",咪咕直播 𝟜𝟝
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/搜狐4K.png",搜狐4K
-http://xuys.top:8888/rtp/225.1.2.190:5002?$天津联通
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",欢笑剧场4K
+#EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",欢笑剧场4K
 http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000?$盐成电信
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",欢笑剧场4K
-http://qingcheng.pro:7890/udp/238.125.5.122:5140?$新疆电信
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/CCTV4K超清.png",CCTV4K超清
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/北京4K超清.png",北京4K超清
-http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001$海淀联通
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png",苏州4K
-http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4K 超高清
-http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/苏州4K频道.png",苏州4K频道
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘电影.png",北京IPTV淘电影
-https://epg.pw/stream/8857ae19129490c1bcadcdc8c1aa75f2e9400f0d995bb1e974db693fbdb47e30.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Loupe-4K.png",Loupe-4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Love Nrture-4K.png",Love Nrture-4K
+#EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png",Love Nrture-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Clarity-4K (2160p)HD.png",Clarity-4K (2160p)HD
+#EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Clarity-4K (2160p)HD.png",Clarity-4K (2160p)HD
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Fashion-4K.png",Fashion-4K
+#EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Fashion-4K.png",Fashion-4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/CCTV3-4K[IPV6].png",CCTV3-4K[IPV6]
-http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5-4K[IPV6].png",CCTV5-4K[IPV6]
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/CCTV6-4K[IPV6].png",CCTV6-4K[IPV6]
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/BesTV-4K[IPV6].png",BesTV-4K[IPV6]
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/爱上4K[IPV6].png",爱上4K[IPV6]
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/CCTV8K[IPV6].png",CCTV8K[IPV6]
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/4K[IPV6].png",4K[IPV6]
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?blog.ntnas.top
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/4K-UHD[IPV6].png",4K-UHD[IPV6]
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/4K-UHD[IPV6].png",4K-UHD[IPV6]
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="🐘4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/ASTRO SUPERSPORT 4K.png",ASTRO SUPERSPORT 4K
-http://extraott.com:80/live/7921751389/6097373662/7841.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/JJ斗地主.png",JJ斗地主
-http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/JJ斗地主.png",JJ斗地主
-http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/王者荣耀.png",王者荣耀
-http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/穿越火线.png",穿越火线
-http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/穿越火线.png",穿越火线
-http://112.83.136.141:80/live/605964rzzgGEOZHr.flv?302_type=cold_aggr&_session_id=2376164747.n.cn-069f7p.14re_26504&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1%2F605964rzzgGEOZHr.flv%3FwsAuth%3D43ef2d796067cbec9c238c73235a1005%26token%3Dcpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay1&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-069f7p.14re.nss&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&vhost=tc-tct.douyucdn2.cn&wsAuth=43ef2d796067cbec9c238c73235a1005
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/跑跑卡丁车.png",跑跑卡丁车
-http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/欧洲体育2.png",欧洲体育2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/曼联官方 MUTV.png",曼联官方 MUTV
+
+#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/曼联官方 MUTV.png",曼联官方 MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png",安徽体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png",安徽体育
-http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png",安徽体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/皇马RMTV.png",皇马RMTV
+#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/皇马RMTV.png",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
-https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
-http://ali.hlspull.yximgs.com/live/7qvlzZeiRYNkx1Dwn6mLv3PM8GERr19J.flv
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/红牛TV.png",红牛TV
+#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/红牛TV.png",红牛TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png",安徽体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
-https://cloud.yumixiu768.com:443/tmp/123.m3u8
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/F1赛车.png",F1赛车
+#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/F1赛车.png",F1赛车
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="🐘国内体育" tvg-logo="https://live.fanmingming.com/tv/12 TV Parma.png",12 TV Parma
+#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/12 TV Parma.png",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/MAT体育2.png",MAT体育2
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
@@ -714,167 +646,6 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Старт Триумф (1080p) [Geo-blocked].png", 温馨提示
 https://10221.kstore.space/m3u/到期/scancode.m3u8
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="🐉香港频道「线路1」", 翡翠台
-https://docker.mytvsuper.us.kg/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="🐉香港频道「线路1」", 翡翠台 4K
-https://docker.mytvsuper.us.kg/stream/tvb/feicui4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://cdn.media.ulivetv.net/media/other/2024-06-20/e86ae7656ccb61c2730cb6f29db291f7.webp" group-title="🐉香港频道「线路1」", 功夫台
-https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="🐉香港频道「线路1」", 明珠台
-https://docker.mytvsuper.us.kg/stream/tvb/pearl/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="🐉香港频道「线路1」", TVB Plus
-https://docker.mytvsuper.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="🐉香港频道「线路1」", 無線新聞台
-https://docker.mytvsuper.us.kg/stream/tvb/wirelessnewschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="🐉香港频道「线路1」", 華語劇台
-https://docker.mytvsuper.us.kg/stream/tvb/cdr3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="🐉香港频道「线路1」", 鳳凰衛視中文台
-https://docker.mytvsuper.us.kg/stream/tvb/pcc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="🐉香港频道「线路1」", 鳳凰衛視資訊台
-https://docker.mytvsuper.us.kg/stream/tvb/pin/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="🐉香港频道「线路1」", 鳳凰衛視香港台
-https://docker.mytvsuper.us.kg/stream/tvb/phk/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="🐉香港频道「线路1」", 黃金翡翠台
-https://docker.mytvsuper.us.kg/stream/tvb/huangjinfeicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="🐉香港频道「线路1」", 黃金華劇台
-https://docker.mytvsuper.us.kg/stream/tvb/tvo/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="🐉香港频道「线路1」", 亞洲劇台
-https://docker.mytvsuper.us.kg/stream/tvb/ctvs/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="🐉香港频道「线路1」", 亞洲新聞台
-https://docker.mytvsuper.us.kg/stream/tvb/ccna/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="🐉香港频道「线路1」",Now 爆谷台
-https://sxj.btjson.us.kg/ziyong?id=baogu-movies
-#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="🐉香港频道「线路1」",Now 星影台
-https://sxj.btjson.us.kg/ziyong?id=now-baogu-superstars
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="🐉香港频道「线路1」", 千禧經典台
-https://docker.mytvsuper.us.kg/stream/tvb/ctvc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🐉香港频道「线路1」", 星河台
-https://docker.mytvsuper.us.kg/stream/tvb/null-25/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🐉香港频道「线路1」", 星河台（备用）
-https://stream1.freetv.fun/tvbxing-he-5.m3u8
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="🐉香港频道「线路1」", 天映經典頻道
-https://docker.mytvsuper.us.kg/stream/tvb/cccm/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="🐉香港频道「线路1」", 娛樂新聞台
-https://docker.mytvsuper.us.kg/stream/tvb/ctve/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="🐉香港频道「线路1」", 戲曲台
-https://docker.mytvsuper.us.kg/stream/tvb/ccoc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="🐉香港频道「线路1」", 東方衛視國際頻道
-https://docker.mytvsuper.us.kg/stream/tvb/dtv/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="旅チャンネル ＨＤ" tvg-name="旅チャンネル ＨＤ" tvg-logo="https://www.dussl.icu/image/旅チャンネル.jpg" group-title="🐉香港频道「线路1」", 旅チャンネル ＨＤ1
-https://stream1.freetv.fun/lu-chiyanneru-1.m3u8
-#EXTINF:-1 tvg-id="旅チャンネル ＨＤ" tvg-name="旅チャンネル ＨＤ" tvg-logo="https://www.dussl.icu/image/旅チャンネル.jpg" group-title="🐉香港频道「线路1」", 旅チャンネル ＨＤ2
-https://stream1.freetv.fun/6de27ffc8d1fb21cbbcfc28c2758d91b69adc720a12d680cde7ae126a430ea4b.m3u8
-#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="🐉香港频道「线路1」", 無線衛星亞洲台
-https://docker.mytvsuper.us.kg/stream/tvb/cts1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="🐉香港频道「线路1」", myTV SUPER 18台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="🐉香港频道「线路1」", 創世電視
-ttps://docker.mytvsuper.us.kg/stream/tvb/cre/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="港台電視-33" tvg-name="港台電視 33" tvg-logo="https://assets.livednow.com/logo/港台電視-33.png" group-title="🐉香港频道「线路1」", 港台电视33
-https://docker.mytvsuper.us.kg/stream/tvb/33-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="港台电视34" tvg-name="港台电视34" tvg-logo="https://i.postimg.cc/Tw1wW3Xq/34.png" group-title="🐉香港频道「线路1」", 港台电视34
-https://docker.mytvsuper.us.kg/stream/tvb/34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="港台电视35" tvg-name="港台电视35" tvg-logo="https://i.postimg.cc/j51j6YxV/35.png" group-title="🐉香港频道「线路1」", 港台电视35
-https://docker.mytvsuper.us.kg/stream/tvb/35/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="港台电视36" tvg-name="港台电视36" tvg-logo="https://i.postimg.cc/FHpNGQvN/36.png" group-title="🐉香港频道「线路1」", 港台电视36
-https://docker.mytvsuper.us.kg/stream/tvb/33/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="🐉香港频道「线路1」", 無線衛星新聞台
-https://docker.mytvsuper.us.kg/stream/tvb/ctsn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="神州新聞台" tvg-name="神州新聞台" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" group-title="🐉香港频道「线路1」", 神州新聞台
-https://docker.mytvsuper.us.kg/stream/tvb/cmn1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="🐉香港频道「线路1」", 粵語片台
-https://docker.mytvsuper.us.kg/stream/tvb/cclm/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="🐉香港频道「线路1」", 美亞電影台
-https://docker.mytvsuper.us.kg/stream/tvb/cmam/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="🐉香港频道「线路1」", 中國電影頻道
-https://docker.mytvsuper.us.kg/stream/tvb/cmc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="🐉香港频道「线路1」", Animax
-https://docker.mytvsuper.us.kg/stream/tvb/animax/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="🐉香港频道「线路1」", Arirang TV
-https://docker.mytvsuper.us.kg/stream/tvb/arirangtv/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="🐉香港频道「线路1」", AXN
-https://docker.mytvsuper.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Now 新闻台" tvg-name="Now 新闻台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/07591c44b82da02b3800b075c4cb6c58.png" group-title="🐉香港频道「线路1」", Now 新闻台(推流)
-https://docker.mytvsuper.us.kg/stream/tvb/null-29/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Now 直播台" tvg-name="Now 直播台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/d7bf718bda6a93e07185e8edc72b4261.png" group-title="🐉香港频道「线路1」", Now 直播台
-https://docker.mytvsuper.us.kg/stream/tvb/now/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="中國環球電視網 記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="🐉香港频道「线路1」", CGTN (中國環球電視網)英語頻道
-https://docker.mytvsuper.us.kg/stream/tvb/cgtn-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="中國環球電視網 英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="🐉香港频道「线路1」", CGTN (中國環球電視網)記錄頻道
-https://docker.mytvsuper.us.kg/stream/tvb/cgtn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="NHK-World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="🐉香港频道「线路1」", NHK World-Japan
-https://docker.mytvsuper.us.kg/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="🐉香港频道「线路1」", Nick Jr.
-https://docker.mytvsuper.us.kg/stream/tvb/nickjr/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="🐉香港频道「线路1」", Nickelodeon
-https://docker.mytvsuper.us.kg/stream/tvb/nickelodeon/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="🐉香港频道「线路1」", PopC
-https://docker.mytvsuper.us.kg/stream/tvb/popc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="🐉香港频道「线路1」", ROCK Action
-https://docker.mytvsuper.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="🐉香港频道「线路1」", ROCK 綜藝娛樂
-https://docker.mytvsuper.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="🐉香港频道「线路1」", SUPER Kids
-https://docker.mytvsuper.us.kg/stream/tvb/superkidschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DreamWorks-夢工廠動畫" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png" group-title="🐉香港频道「线路1」", DreamWorks 夢工廠動畫
-https://sxj.btjson.us.kg/ziyong?id=dreamworks
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="🐉香港频道「线路1」", Thrill
-https://docker.mytvsuper.us.kg/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="🐉香港频道「线路1」", tvN
-https://docker.mytvsuper.us.kg/stream/tvb/tvn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="🐉香港频道「线路1」", ZooMoo
-https://docker.mytvsuper.us.kg/stream/tvb/zoomoo/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="中央電視台综合頻道-港澳版" tvg-name="中央電視台综合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台综合頻道-港澳版.png" group-title="🐉香港频道「线路1」", 中央電視台综合頻道 (港澳版)
-https://docker.mytvsuper.us.kg/stream/tvb/cctvintegratedchannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="🐉香港频道「线路1」", 半島電視台英語頻道
-https://docker.mytvsuper.us.kg/stream/tvb/cjaz/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="🐉香港频道「线路1」", DW
-https://docker.mytvsuper.us.kg/stream/tvb/dw/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="🐉香港频道「线路1」", FashionBox
-https://docker.mytvsuper.us.kg/stream/tvb/fashionbox/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="🐉香港频道「线路1」", France 24
-https://docker.mytvsuper.us.kg/stream/tvb/france24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="🐉香港频道「线路1」", Global Trekker
-https://docker.mytvsuper.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="🐉香港频道「线路1」", KIX
-https://docker.mytvsuper.us.kg/stream/tvb/kix/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Love-Nature-HD" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="🐉香港频道「线路1」", Love Nature HD
-https://docker.mytvsuper.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="🐉香港频道「线路1」", Love Nature 4K
-https://docker.mytvsuper.us.kg/stream/tvb/lovenature4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="🐉香港频道「线路1」", Mezzo Live HD
-https://docker.mytvsuper.us.kg/stream/tvb/mezzolivehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🐉香港频道「线路1」", myTV SUPER FREE
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://assets.livednow.com/logo/广东体育.png" group-title="🐉香港频道「线路1」", 广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-yan-dian-3.m3u8
-#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🐉香港频道「线路1」",Now Sports Plus
-https://sxj.btjson.us.kg/ziyong?id=now-sports-plus
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🐉香港频道「线路1」",Now Sports 英超1
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league1
-#EXTINF:-1,tvg-id="NOWSPORTS英超2" tvg-name="NOWSPORTS英超2" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png" group-title="🐉香港频道「线路1」",Now Sports 英超2
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league2
-#EXTINF:-1,tvg-id="NOWSPORTS英超3" tvg-name="NOWSPORTS英超3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png" group-title="🐉香港频道「线路1」",Now Sports 英超3
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league3
-#EXTINF:-1,tvg-id="NOWSPORTS英超4" tvg-name="NOWSPORTS英超4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png" group-title="🐉香港频道「线路1」",Now Sports 英超4
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league4
-#EXTINF:-1,tvg-id="NOWSPORTS英超5" tvg-name="NOWSPORTS英超5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超5.png" group-title="🐉香港频道「线路1」",Now Sports 英超5
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league5
-#EXTINF:-1,tvg-id="NOWSPORTS英超6" tvg-name="NOWSPORTS英超6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超6.png" group-title="🐉香港频道「线路1」",Now Sports 英超6
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league6
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🐉香港频道「线路1」", 互動窗 1
-https://docker.mytvsuper.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🐉香港频道「线路1」", 互動窗 2
-https://docker.mytvsuper.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🐉香港频道「线路1」", myTV SUPER 直播足球3台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🐉香港频道「线路1」", myTV SUPER 直播足球4台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🐉香港频道「线路1」", myTV SUPER 直播足球5台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🐉香港频道「线路1」", myTV SUPER 直播足球6台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png",台视新闻
 https://sxg.btjson.us.kg/litv/4gtv-4gtv051
