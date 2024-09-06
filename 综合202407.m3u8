@@ -1013,6 +1013,9 @@ http://95.179.139.113:5566/4gtv/292
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="🐉湾湾频道「线路2」",东森财经新闻台
 http://95.179.139.113:5566/4gtv/293
 
+
+#EXTINF:-1 tvg-id="温馨提示" tvg-name="民視" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道「线路3」",温馨提示
+https://10221.kstore.space/m3u/OpenVPN/OpenVPN.m3u8
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="🐉湾湾频道「线路3」",民視
 http://209.146.124.22:8891/litv/4gtv-4gtv155
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="🐉湾湾频道「线路3」",民視第一台
