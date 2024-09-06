@@ -520,15 +520,15 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Fashion-4K.png",Fashion-4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
-#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/曼联官方 MUTV.png",曼联官方 MUTV
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/曼联官方 MUTV.png",曼联官方 MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/皇马RMTV.png",皇马RMTV
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/皇马RMTV.png",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/红牛TV.png",红牛TV
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/红牛TV.png",红牛TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
-#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/F1赛车.png",F1赛车
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/F1赛车.png",F1赛车
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="🐘国外体育" tvg-logo="https://live.fanmingming.com/tv/12 TV Parma.png",12 TV Parma
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/12 TV Parma.png",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/MAT体育2.png",MAT体育2
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
@@ -1292,18 +1292,12 @@ http://209.146.124.22:8891/litv/4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="🐉湾湾频道「线路3」",國會頻道2
 http://209.146.124.22:8891/litv/4gtv-4gtv085
 
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/JP| QVC.png",JP| QVC
-http://extraott.com:80/live/7921751389/6097373662/37684.m3u8
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/JP| ショップチャンネル.png",JP| ショップチャンネル
-http://extraott.com:80/live/7921751389/6097373662/37685.m3u8
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/「日本」QVC.png",「日本」QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/NHK世界.png",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/Nippon.png",Nippon
 https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/NHKG.png",NHKG
-https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/Shop Channel.png",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/ABCテレビ.png",ABCテレビ
@@ -1380,29 +1374,24 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/NHKBSP-4K.png",NHKBSP-4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/日本テレビ.png",日本テレビ
-https://epg.pw/stream/f4a4597d5babf98f1aadcee6a0f25b5166b382b3048e932471ac444f1b00749e.m3u8
+
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/日本テレビ.png",日本テレビ
 https://epg.pw/stream/2064bcd6f220e1049e0f938f6a33b000f09f1ce8042acc88ba5953e569f86ee9.m3u8
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/テレビ朝日.png",テレビ朝日
-https://epg.pw/stream/27e90d1618e586dcdbcede8f32e3c1f3bbaf5de578f4352f9395ce7c4b30a37c.m3u8
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/テレビ朝日.png",テレビ朝日
-https://epg.pw/stream/486d1b33baa7c6ba26e7eb018c526064caae11dba20f74d4b38fb654ca5bddd8.m3u8
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA
+#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",NHK E
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cu8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA
+#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?clive/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA
+#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA
+#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?come.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA
+#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",WOWOW
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA
+#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",GOLF NETWORK
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cng/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA
+#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/スカイA.png",スカイA(LIVE)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cmehome.com:8000/zhongying/live/playlist.m3u8?clive/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/ディスカバリー.png",ディスカバリー
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
@@ -1416,16 +1405,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/フジテレビ.png",フジテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/ホームドラマチャンネル.png",ホームドラマチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/ミュージック?ジャパンTV.png",ミュージック?ジャパンTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/旅チャンネル.png",旅チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/迪士尼（日本）.png",迪士尼（日本）
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/日本 声优广播.png",日本 声优广播
-http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/Shop Channel.png",Shop Channel
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 #EXTINF:-1 group-title="🐘日本频道🦮" tvg-logo="https://live.fanmingming.com/tv/ホームドラマチャンネル Home Drama Channel.png",ホームドラマチャンネル Home Drama Channel
