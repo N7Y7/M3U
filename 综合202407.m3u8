@@ -647,30 +647,11 @@ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Старт Триумф (1080p) [Geo-blocked].png", 温馨提示
 https://10221.kstore.space/m3u/到期/scancode.m3u8
 
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png",台视新闻
-https://sxg.btjson.us.kg/litv/4gtv-4gtv051
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png",TVBS新闻
-https://sxg.btjson.us.kg/litv/4gtv-4gtv072
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png",中视新闻
-https://sxj.btjson.us.kg/ziyong?id=ctv-news
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png",中天新闻
-https://sxg.btjson.us.kg/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/公视新闻.png",公视新闻
-http://194.87.101.118/live.m3u8?c=8
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/镜新闻.png",镜新闻
-http://194.87.101.118/live.m3u8?c=10
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png",民视新闻
-https://sxg.btjson.us.kg/litv/litv-ftv13
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png",三立新闻
-https://sxg.btjson.us.kg/4gtv/229
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png",华视新闻
-https://sxg.btjson.us.kg/litv/4gtv-4gtv052
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png",东森财经新闻
-https://sxg.btjson.us.kg/litv/4gtv-4gtv153
+
+#EXTINF:-1 tvg-id="温馨提示" tvg-name="民視" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道「线路1」",温馨提示
+https://10221.kstore.space/m3u/OpenVPN/OpenVPN.m3u8
 #EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/DW.png",DW
 http://61.221.215.25:8800/hls/1/index.m3u8
-#EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/TVBS NEWS.png",TVBS NEWS
-https://sxg.btjson.us.kg/litv/4gtv-4gtv072
 #EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/八大戏剧.png",八大戏剧
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/中华小当家.png",中华小当家
@@ -742,6 +723,9 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 group-title="🐉湾湾频道「线路1」" tvg-logo="https://live.fanmingming.com/tv/靖宇综合.png",靖宇综合
 http://stream8.jlntv.cn/jytv/sd/live.m3u8
 
+
+#EXTINF:-1 tvg-id="温馨提示" tvg-name="民視" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道「线路2」",温馨提示
+https://10221.kstore.space/m3u/OpenVPN/OpenVPN.m3u8
 #EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="🐉湾湾频道「线路2」",民视第一台
 http://95.179.139.113:5566/4gtv/1
 #EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="🐉湾湾频道「线路2」",民视台湾台
