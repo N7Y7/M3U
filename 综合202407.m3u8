@@ -1773,7 +1773,8 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷韩国频道🇰🇷" tvg-logo="https://live.fanmingming.com/tv/韩国-BBS.png",韩国-BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-
+#EXTINF:-1 group-title="🇰🇷韩国频道🇰🇷" tvg-logo="https://live.fanmingming.com/tv/韩国-BBS.png",now测试
+https://ewcdn15.nowe.com/session/15-12aa682a8197ed70fb2416aa14776/Content/DASH_VOS3/Live/channel(VOS_CH630)/manifest.mpd?token=4ac3c769602207b9ebb9e2cd964a8b6d_1725724932
 
 #EXTINF:-1 group-title="🇺🇸美国频道🇺🇸" tvg-logo="https://live.fanmingming.com/tv/新闻频道.png",新闻频道
 http://doubleclicktv.live:80/70376812/52663544/295937
