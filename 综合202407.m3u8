@@ -57,13 +57,17 @@ http://doubleclicktv.live/70376812/52663544/620667
 #EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
 https://token.567852.xyz/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+https://sxj.livednow.us.kg/ziyong?id=feicui
 #EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台 4K测试
 https://judy.mytvsuper.us.kg/stream/tvb/feicui4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="無線新聞台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台
 https://token.567852.xyz/stream/tvb/wirelessnewschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-name="無線新聞台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台(备用)
+https://sxj.livednow.us.kg/ziyong?id=tvb-news
 #EXTINF:-1 tvg-name="明珠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台
 https://token.567852.xyz/stream/tvb/pearl/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-name="明珠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台(备用)
+https://sxj.livednow.us.kg/ziyong?id=pearl
 #EXTINF:-1 tvg-name="TVB-Plus" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS
 https://token.567852.xyz/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="娛樂新聞台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",TVB娱乐新闻台
