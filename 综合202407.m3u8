@@ -745,7 +745,7 @@ http://125.227.210.55:8187/VideoInput/play.ts
 http://125.227.210.55:8162/VideoInput/play.ts
 #EXTINF:-1,tvg-id="bbcnew1" tvg-name="bbcnew1" tvg-logo="https://epg.v1.mk/logo/bbcnew1.png" group-title="🚩台湾频道 🚩",BBC new
 http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1,tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://epg.v1.mk/logo/CNN International.png" group-title="🚩台湾频道 🚩他",CNN new
+#EXTINF:-1,tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://epg.v1.mk/logo/CNN International.png" group-title="🚩台湾频道 🚩",CNN new
 http://125.227.210.55:8166/VideoInput/play.ts
 
 
