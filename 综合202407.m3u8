@@ -93,13 +93,13 @@ http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
 https://live.9528.eu.org/a1e47204bb4070bfc7a79c10d3c64611.m3u8
 
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球3台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://token.567852.xyz/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球4台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://token.567852.xyz/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球5台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://token.567852.xyz/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球6台
-https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://token.567852.xyz/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Sky%20Sports%20Premier%20League.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Sky%20Sports%20Premier%20League.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 2
@@ -138,12 +138,12 @@ https://sxj.livednow.us.kg/ziyong?id=pearl
 #EXTINF:-1 tvg-name="TVB-Plus" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS
 https://token.567852.xyz/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="娛樂新聞台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",TVB娱乐新闻台
-https://judy.mytvsuper.us.kg/stream/tvb/ctve/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+hhttps://token.567852.xyz/stream/tvb/ctve/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="星河台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河台
 https://sxj.livednow.us.kg/ziyong?id=tvb-xinghe
 #EXTINF:-1 tvg-name="功夫台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://cdn.media.ulivetv.net/media/other/2024-06-20/e86ae7656ccb61c2730cb6f29db291f7.webp",功夫台
 https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="華語劇台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",华语剧台
+#EXTINF:-1 tvg-name="華語劇台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mytvsuper.png",华语剧台
 https://token.567852.xyz/stream/tvb/cdr3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="J2" group-title="🇭🇰香港频道🇭🇰" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",TVB J2
 http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
