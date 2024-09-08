@@ -2,3 +2,91 @@
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="国内源测试" ,请扫码获取新的链接
 https://10221.kstore.space/m3u/QRcode.mp4
+
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="港澳台",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1,tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="其他",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.v1.mk/logo/东森超视.png" group-title="港澳台",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1,tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://epg.v1.mk/logo/纬来育乐.png" group-title="港澳台",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="港澳台",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1,tvg-id="momo综合台" tvg-name="momo综合台" tvg-logo="https://epg.v1.mk/logo/momo综合台.png" group-title="其他",MoMo综合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA体育3
+rtmp://9hv9.mine.nu/sat/md011
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA体育4
+rtmp://9hv9.mine.nu/sat/md021
+#EXTINF:-1,tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://epg.v1.mk/logo/DAZN1.png" group-title="其他",DAZN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1,tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://epg.v1.mk/logo/DAZN1.png" group-title="其他",DAZN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://epg.v1.mk/logo/DW Deutsch.png" group-title="其他",DW
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.v1.mk/logo/大爱一台.png" group-title="港澳台",大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.v1.mk/logo/大爱二台.png" group-title="港澳台",大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="其他",亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="其他",亚洲新闻台
+http://live.lordstreams.co:8080//832396166/1982148236/659605
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="其他",亚洲新闻台
+http://iptvtree.net:8080//F18819/6eb39c7d/157524
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="其他",亚洲新闻台
+http://mohdtv.com:8880//voby3837/28337929/71065
+#EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://epg.v1.mk/logo/环球电视台.png" group-title="其他",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1,tvg-id="Tvbsnews" tvg-name="Tvbsnews" tvg-logo="https://epg.v1.mk/logo/Tvbsnews.png" group-title="港澳台",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1,tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://epg.v1.mk/logo/八大戏剧.png" group-title="其他",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1,tvg-id="八大第一" tvg-name="八大第一" tvg-logo="https://epg.v1.mk/logo/八大第一.png" group-title="其他",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1,tvg-id="八大综合" tvg-name="八大综合" tvg-logo="https://epg.v1.mk/logo/八大综合.png" group-title="其他",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.v1.mk/logo/三立戏剧.png" group-title="其他",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1,tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="https://epg.v1.mk/logo/AMC电影台.png" group-title="其他",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1,tvg-id="纬来精彩" tvg-name="纬来精彩" tvg-logo="https://epg.v1.mk/logo/纬来精彩.png" group-title="港澳台",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1,tvg-id="探索亚洲" tvg-name="探索亚洲" tvg-logo="https://epg.v1.mk/logo/探索亚洲.png" group-title="其他",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.v1.mk/logo/NHKWORLD.png" group-title="港澳台",NHK WORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.v1.mk/logo/动物星球.png" group-title="其他",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1,tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://epg.v1.mk/logo/中华功夫.png" group-title="其他",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="其他",緯來體育
+http://125.227.210.55:8155/VideoInput/play.ts
+#EXTINF:-1,tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://epg.v1.mk/logo/三立台湾.png" group-title="其他",三立台灣
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1,tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://epg.v1.mk/logo/BLOOMBERG.png" group-title="其他",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1,tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://epg.v1.mk/logo/CN卡通.png" group-title="其他",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="港澳台",TVBS新聞
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1,tvg-id="ASIANFOODNETWORK亚洲美食" tvg-name="ASIANFOODNETWORK亚洲美食" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK亚洲美食.png" group-title="其他",食尚玩家
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="其他",三立新聞
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1,tvg-id="bbcnew1" tvg-name="bbcnew1" tvg-logo="https://epg.v1.mk/logo/bbcnew1.png" group-title="其他",BBC new
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1,tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://epg.v1.mk/logo/CNN International.png" group-title="其他",CNN new
+http://125.227.210.55:8166/VideoInput/play.ts
