@@ -1,8 +1,3 @@
-#EXTINF:-1 group-title="国内源测试" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1（IPV6）
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="国内源测试" ,请扫码获取新的链接
-https://10221.kstore.space/m3u/QRcode.mp4
-
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民视
 rtmp://f13h.mine.nu/sat/tv051
