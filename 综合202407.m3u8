@@ -82,7 +82,6 @@ https://live.hkdvb.com/hls/live/621.m3u8?token=645582076445879
 https://live.hkdvb.com/hls/live/630.m3u8?token=645582076445879
 #EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="🦁Now体育🦁", Now Sports 632
 https://live.hkdvb.com/hls/live/632.m3u8?token=645582076445879
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" 
 #EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🦁Now体育🦁",Now Sports Plus
 https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁Now体育🦁",Now Sports 英超1
