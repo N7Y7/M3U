@@ -515,42 +515,20 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Fashion-4K.png",Fashion-4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/曼联官方 MUTV.png",曼联官方 MUTV
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/MUTV.png",曼联官方 MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/皇马RMTV.png",皇马RMTV
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/rmtv.png",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/红牛TV.png",红牛TV
-http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/rmtv.png",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/red-bull-logo-7.png",红牛TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/F1赛车.png",F1赛车
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/12 TV Parma.png",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/MAT体育2.png",MAT体育2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/福克斯体育.png",福克斯体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/格极限斗.png",格极限斗
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/BT体育1.png",BT体育1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/拜仁体育.png",拜仁体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/欧洲体育1.png",欧洲体育1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/俄罗斯体育.png",俄罗斯体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/贝因体育.png",贝因体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/贝因体育 3.png",贝因体育 3
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/贝因体育 3.png",贝因体育 3
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/国外体育6.png",国外体育6
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Red Bull TV HD.png",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Red Bull TV HD.png",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Trace Sports Stars.png",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Астрахань.Ru Sport.png",Астрахань.Ru Sport
@@ -559,12 +537,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Астрахань.Ru Sport.png",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/红牛RedBull.png",红牛RedBull
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/红牛电视.png",红牛电视
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/beIN SPORTS-2.png",beIN SPORTS-2
-https://live.9528.eu.org/783281f456d82f5fbb.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/ATG (432p).png",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Awapa Sports TV (1080p) [Not 24/7].png",Awapa Sports TV (1080p) [Not 24/7]
@@ -613,10 +585,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Racing.com (720p).png",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Real Madrid.png",Real Madrid
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Red Bull TV (1080p).png",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/San Marino RTV Sport (720p).png",San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Ski TV (1080p) [Not 24/7].png",Ski TV (1080p) [Not 24/7]
@@ -635,12 +603,6 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Бокс ТВ.png",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Старт (1080p) [Geo-blocked].png",Старт (1080p) [Geo-blocked]
-https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Старт Триумф (1080p) [Geo-blocked].png",Старт Триумф (1080p) [Geo-blocked]
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/Старт Триумф (1080p) [Geo-blocked].png", 温馨提示
-https://10221.kstore.space/m3u/到期/scancode.m3u8
 
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title=" 🚩台湾频道 🚩",民视
 rtmp://f13h.mine.nu/sat/tv051
