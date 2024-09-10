@@ -200,7 +200,7 @@ https://token.567852.xyz/stream/tvb/phk/master.m3u8?u=btjson&p=213f2541f159ac2ec
 #EXTINF:-1 tvg-name="港台電視 31" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://i.imgur.com/kf818kM.png",RTHK31
 https://sxj.livednow.us.kg/ziyong?id=rthk31
 #EXTINF:-1 tvg-name="港台電視 32" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://i.imgur.com/MXLuUoU.png",RTHK32
-https://sxj.livednow.us.kg/ziyong?id=rthk32
+https://token.567852.xyz/stream/tvb/rthktv32/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="港台電視 33" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://assets.livednow.com/logo/港台電視-33.png",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="港台電視 34" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://i.postimg.cc/Tw1wW3Xq/34.png",RTHK34
