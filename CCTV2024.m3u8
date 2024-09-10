@@ -120,6 +120,8 @@ http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=cctv15
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视卫视 IPV4 ①",CCTV17
 http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=cctv17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视卫视 IPV4 ①",CCTV 4K
+https://dh5.cntv.myhwcdn.cn/asp/h5e/hls/4000/0303000a/3/default/1fd69b9e2564459982038d33c2b0cec5/4000.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="央视卫视 IPV4 ①",北京卫视
 http://webmail.axxe.top:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="央视卫视 IPV4 ①",东方卫视
