@@ -2,14 +2,16 @@
 #EXTINF:-1 tvg-name="售后服务" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="添加客服获取售后",售后服务
 https://10221.kstore.space/m3u/qrcode/qrcode.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/世界杯.png" group-title="世界杯预选赛",中国vs沙特阿拉伯【粤语】
+https://token.567852.xyz/stream/tvb/rthktv32/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/美网.png" group-title="🎾2024美网🎾",咪咕直播信号
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/美网.png" group-title="🎾2024美网🎾",美网女单1/4决赛 郑钦文0-2萨巴伦卡
 https://hlszymgspvod.miguvideo.com/depository_nas03/asset/zhengshi/5105/585/266/5105585266/media/5105585266_5278248621_56.mp4.m3u8?msisdn=861c65bfe7928b484a3758db9814b318&mdspid=&spid=800033&netType=0&sid=5700942409&pid=2028600738&timestamp=20240910132045&Channel_ID=0132_10010001005&ProgramID=931028591&ParentNodeID=-99&assertID=5700942409&client_ip=113.73.230.71&SecurityKey=20240910132045&promotionId=&mvid=5105585266&mcid=1003&mpid=120000520614&playurlVersion=WX-A1-7.8.2-RELEASE&userid=1046696912&jmhm=861c65bfe7928b484a3758db9814b318&videocodec=h264&bean=mgspwww&encrypt=7f83aa97f2deb3830d4c28cedb9cb13a&sv=10000&ct=www
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/美网.png" group-title="🎾2024美网🎾",美网女单决赛 佩古拉0-2萨巴伦卡
 https://mgsp.vod.miguvideo.com/depository_nas03/asset/zhengshi/5105/587/275/5105587275/media/5105587275_5279462972_56.mp4.m3u8?msisdn=861c65bfe7928b484a3758db9814b318&mdspid=&spid=800033&netType=0&sid=5700947464&pid=2028600738&timestamp=20240910131948&Channel_ID=0132_10010001005&ProgramID=931776477&ParentNodeID=-99&assertID=5700947464&client_ip=113.73.230.71&SecurityKey=20240910131948&promotionId=&mvid=5105587275&mcid=1003&mpid=120000521639&playurlVersion=WX-A1-7.8.2-RELEASE&userid=1046696912&jmhm=861c65bfe7928b484a3758db9814b318&videocodec=h264&bean=mgspwww&encrypt=6542f719f9f6a9b6148523473e210936&sv=10000&ct=www
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/世界杯.png" group-title="奇艺「体育」",09/10 19:40 世亚预 第2轮 中国vs沙特阿拉伯 苏东 
-https://token.567852.xyz/stream/tvb/rthktv32/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/世界杯.png" group-title="奇艺「体育」",09/10 19:40 世亚预 第2轮 中国vs沙特阿拉伯 陈文森 
 https://livednow.com/iqiyi/live/?sign=gAAAAABm38lPoQHDPBZbuM-lAdMzgmCuen-oNNwP3uBdkJw9_kmpNLYt1toLpnkJKWwAb2jV8axXCx8_ugOjrJXoYYxk2Zym6hnEMLP-Jh3IofVtEUfiUR32zWNtaTi20aI-2OfHV3XVioygD_sthHRncltm7Kyu5t1lJlNMa--DK2OvEqQbp02BW9lrQREwfT3R9kBE5GNT-8wxu79lvcY8BPJJ9t5GltcHCUXtm6-FLaRI5uawY5ETnixBHzRYfN5DhizlpGTC46W4xD-ByDCFcmYRITQ5oRhT8rfQsSIVtwTA5jAANrZ19-08rXV5KyDNRww09mpK 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/世界杯.png" group-title="奇艺「体育」",09/10 19:40 世亚预 第2轮 中国vs沙特阿拉伯 English 
