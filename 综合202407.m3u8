@@ -52,23 +52,23 @@ http://doubleclicktv.live/70376812/52663544/620667
 #EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台
 https://console.567852.xyz/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台（备用）
-https://sxj.livednow.us.kg/ziyong?id=feicui
+https://sxj.livednow.us.kg/cao?id=feicui
 #EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",TVB翡翠台 4K测试
 https://console.567852.xyz/stream/tvb/feicui4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="無線新聞台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台
 https://console.567852.xyz/stream/tvb/wirelessnewschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="無線新聞台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",TVB无线新闻台(备用)
-https://sxj.livednow.us.kg/ziyong?id=tvb-news
+https://sxj.livednow.us.kg/cao?id=tvb-news
 #EXTINF:-1 tvg-name="明珠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台
 https://console.567852.xyz/stream/tvb/pearl/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="明珠台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",TVB明珠台(备用)
-https://sxj.livednow.us.kg/ziyong?id=pearl
+https://sxj.livednow.us.kg/cao?id=pearl
 #EXTINF:-1 tvg-name="TVB-Plus" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB PLUS
 https://console.567852.xyz/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="娛樂新聞台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",TVB娱乐新闻台
 https://console.567852.xyz/stream/tvb/ctve/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="星河台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png",TVB星河台
-https://sxj.livednow.us.kg/ziyong?id=tvb-xinghe
+https://sxj.livednow.us.kg/cao?id=tvb-xinghe
 #EXTINF:-1 tvg-name="功夫台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://cdn.media.ulivetv.net/media/other/2024-06-20/e86ae7656ccb61c2730cb6f29db291f7.webp",功夫台
 https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="華語劇台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mytvsuper.png",华语剧台
@@ -80,13 +80,13 @@ http://cdn12.1678520.xyz/live/?id=viu
 #EXTINF:-1 tvg-name="Viu 劇集台" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Viu_(streaming_media)-Logo.wine.png",Viu剧集台
 http://cdn12.1678520.xyz/live/?id=viu2
 #EXTINF:-1 tvg-id="Now 新闻台" tvg-name="Now 新闻台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/07591c44b82da02b3800b075c4cb6c58.png" group-title="🇭🇰香港频道🇭🇰", Now 新闻台
-https://sxj.livednow.us.kg/ziyong?id=now-news
+https://sxj.livednow.us.kg/cao?id=now-news
 #EXTINF:-1 tvg-id="Now 直播台" tvg-name="Now 直播台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-29/d7bf718bda6a93e07185e8edc72b4261.png" group-title="🇭🇰香港频道🇭🇰", Now 直播台
-https://sxj.livednow.us.kg/ziyong?id=now-direct
+https://sxj.livednow.us.kg/cao?id=now-direct
 #EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="🇭🇰香港频道🇭🇰",Now 爆谷台
-https://sxj.livednow.us.kg/ziyong?id=baogu-movies
+https://sxj.livednow.us.kg/cao?id=baogu-movies
 #EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="🇭🇰香港频道🇭🇰",Now 星影台
-https://sxj.livednow.us.kg/ziyong?id=now-baogu-superstars
+https://sxj.livednow.us.kg/cao?id=now-baogu-superstars
 #EXTINF:-1 group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://i.imgur.com/NfVZPTT.png",HOY TV Ⓖ
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://i.imgur.com/NfVZPTT.png",HOY TV 76
@@ -102,7 +102,7 @@ https://console.567852.xyz/stream/tvb/pin/master.m3u8?u=btjson&p=213f2541f159ac2
 #EXTINF:-1 tvg-name="鳳凰香港" group-title="🇭🇰香港频道🇭🇰" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
 https://console.567852.xyz/stream/tvb/phk/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="港台電視 31" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://i.imgur.com/kf818kM.png",RTHK31
-https://sxj.livednow.us.kg/ziyong?id=rthk31
+https://sxj.livednow.us.kg/cao?id=rthk31
 #EXTINF:-1 tvg-name="港台電視 32" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://i.imgur.com/MXLuUoU.png",RTHK32
 https://console.567852.xyz/stream/tvb/rthktv32/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-name="港台電視 33" group-title="🇭🇰香港频道🇭🇰" tvg-logo="https://assets.livednow.com/logo/港台電視-33.png",RTHK33
