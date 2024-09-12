@@ -13,6 +13,12 @@ https://token.567852.xyz/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f1
 https://token.567852.xyz/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="⚽足球赛事⚽", myTV SUPER 直播足球6台
 https://token.567852.xyz/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 group-title="⚽足球赛事⚽" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/MUTV.png",曼联官方 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="⚽足球赛事⚽" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/rmtv.png",皇马RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="⚽足球赛事⚽" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/rmtv.png",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="魅力足球" tvg-logo="https://assets.livednow.com/logo/魅力足球.png" group-title="⚽足球赛事⚽",魅力足球
 https://livednow.com/migu/796070308?sign=gAAAAABm0o35R_BBEs63Z11bg0U_4gbYX0jdzs78HGGxlRGGX8B-lhvwAhp_0YztGZ6ybZrBEvACjI4QIR5f24J1PfuN8GXqUdci0toWvBaXgwqKf9UwObeUKkRmhGOkdVXjC_zyuiZOoVqvcByUoDWotqFPEp_kkjuPHkSrZEiozzzCEPutiUjI6zdKGdCVdN7Rj0aP7LnNrHcZ8yiBziyt3OCbLRGzVA%3D%3D
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="五大联赛经典" tvg-logo="https://assets.livednow.com/logo/五大联赛经典.png" group-title="⚽足球赛事⚽",五大联赛经典
@@ -435,21 +441,15 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 #EXTINF:-1 tvg-logo="https://tv.iill.top/logo/咪咕.png" group-title="咪咕体育（移动）",tvg-logo="https://gitee.com/n7y7/Logo/raw/master/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91.png",咪咕直播 𝟜𝟝
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",欢笑剧场4K
+#EXTINF:-1 group-title="👽探索频道👽" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",欢笑剧场4K
 http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000?$盐成电信
-#EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png",Love Nrture-4K
+#EXTINF:-1 group-title="👽探索频道👽" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png",Love Nrture-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://live.fanmingming.com/tv/Clarity-4K (2160p)HD.png",Clarity-4K (2160p)HD
+#EXTINF:-1 group-title="👽探索频道👽" tvg-logo="https://live.fanmingming.com/tv/Clarity-4K (2160p)HD.png",Clarity-4K (2160p)HD
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="4K-8K频道" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/ftv.png",Fashion-4K
+#EXTINF:-1 group-title="👽探索频道👽" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/ftv.png",Fashion-4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/MUTV.png",曼联官方 MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/rmtv.png",皇马RMTV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/rmtv.png",Real Madrid
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/red-bull-logo-7.png",红牛TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="🐘海外体育" tvg-logo="https://live.fanmingming.com/tv/F1赛车.png",F1赛车
