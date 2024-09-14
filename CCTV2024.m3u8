@@ -237,6 +237,8 @@ http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=308-5
 http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东珠江.png",「电信」广东珠江 ipv6
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东珠江.png",广东珠江【测试】
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=907c854e17bbb4a1cda2fadffd28847e-wiapNwJIwJSifCXBl24dp%2Fp35x8XrK6VfxbOq7MXBO90mXosXhPq9AWfZMdWTtRZOoFIfBXYVtYYHLtASjxd7IEqdQBe76MxmKzY6lgticEm%2BkBbbUOHCSvbDn7MULTqeAH144dTspcce%2FJxNMGSO7cH7ELthlAVFRcV%2BAXQtCgBZFYJuY5Q5mVn9Dm0tyVMEhQyo7e00ilQC%2FOd6xAEv3u1G0EBuCOSLGNfxJCm6apM%2FcTgrrUJuwWC6PEAIbsq4W0vxxmKNFtKO%2FIb1seoizM%2BRCEqEQ4P8OVuy%2BcS4veyTe0%2Fi%2FxPNuiDEzeAPya%2B1vlPermrM%2B5zPshMMV2ELOXsksdvC1QW7Es0nNAUlIo%3D
 
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东新闻.png",「电信」广东新闻
 http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
