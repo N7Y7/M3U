@@ -123,7 +123,7 @@ https://livednow.com/migu/673168256?sign=gAAAAABmwyZNAyaJ1l1qmt_7Io0DKHG4-nMDiEH
 
 
 #EXTINF:-1 group-title="🇨🇳央视卫视 IPV4🇨🇳" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
-https://sxj.livednow.us.kg/cao?id=gdzj
+http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=308-5
 #EXTINF:-1 group-title="🇨🇳央视卫视 IPV4🇨🇳" tvg-id="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
 https://sxj.livednow.us.kg/cao?id=gdty
 #EXTINF:-1 group-title="🇨🇳央视卫视 IPV4🇨🇳" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
@@ -237,8 +237,6 @@ http://122.152.202.33/s/3f7b3ee1/index.m3u8?id=308-5
 http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东珠江.png",「电信」广东珠江 ipv6
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东珠江.png",广东珠江【测试】
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=0a6f3e47dba8ca5e5191c3335dbb297b-BrJLKsqL%2BZYANVroK7sYE2nvrx0xUhGTrWC6b7RmDXMBN2fo9hG2n1yfx3c%2FUCS6mb6DGjAaZjvOKVipV2LSXiJS6OjTfBvl6RtuPBtD93IAS1U8ypuzwuNawVv%2FNSTRMrrIMvjEyctCUvGm9QV2fs3V8foGYrLV20nH064PAt%2BLeIeYXJLy48SV%2FXYnGmKUXkE0t2GKgxXql13JGa%2BWEq%2FHWu0evmeFdE37u665EPtjFtLgAw81%2BoX3Vq4aLGQHNS1heJSVK7u6YYG34cZgyyWqbG0G%2BTkcAVWtXYWLqqbiSJuuf2ISXBvqNdMLoSTAudUF%2Fnceu9w%2ByCxyhFCoPTha3pifOM%2Fipxqg9CAeE7A%3D
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东新闻.png",「电信」广东新闻
 http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
 #EXTINF:-1 group-title="🐘广东频道" tvg-logo="https://live.fanmingming.com/tv/「电信」广东民生.png",「电信」广东民生
